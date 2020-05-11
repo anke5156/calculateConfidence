@@ -295,3 +295,9 @@
 2020-05-11 14:24:37,257 scheJob.py[line:58] INFO ==============================开始构建SQL==============================
 2020-05-11 14:24:37,258 scheJob.py[line:62] INFO ==============================开始执行SQL文件==============================
 2020-05-11 14:24:37,258 scheJob.py[line:88] INFO ==============================All Job Done!==============================
+2020-05-11 15:23:04,060 cmdThread.py[line:31] INFO [****命令【pwd】执行成功，退出进程!****]
+2020-05-11 15:23:04,061 cmdThread.py[line:32] INFO [EXCUTE_DONE]pwd
+2020-05-11 15:23:04,061 cmdThread.py[line:33] INFO [****执行结果【/Users/anke/code/python/calculateConfidence】****]
+2020-05-11 15:23:08,552 cmdThread.py[line:31] INFO [****命令【pwd】执行成功，退出进程!****]
+2020-05-11 15:23:08,553 cmdThread.py[line:32] INFO [EXCUTE_DONE]pwd
+2020-05-11 15:23:08,553 cmdThread.py[line:33] INFO [****执行结果【/Users/anke/code/python/calculateConfidence】****]

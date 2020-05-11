@@ -1,8 +1,7 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
-import os
-import sys
-from loggerPro import LoggerPro,logger as logging
+import subprocess
+from loggerPro import logger as logging
 from threading import Thread
 
 '''
@@ -40,6 +39,5 @@ class CmdThread(Thread):
 
 
 if __name__ == '__main__':
-    LoggerPro().config()
     cm = CmdThread(1, "pwd", )
     cm.run()
