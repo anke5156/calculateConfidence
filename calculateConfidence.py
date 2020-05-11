@@ -21,8 +21,8 @@ from enum import Enum, unique
 
 @unique
 class Path(Enum):
-    # CONNECT = 'root:123456@172.20.1.11:3306'
-    CONNECT = 'root:123456@127.0.0.1:3306'
+    CONNECT = 'root:123456@172.20.1.11:3306'
+    # CONNECT = 'root:123456@127.0.0.1:3306'
     MAPPINGPATH = './mapping'
     SQLPATH = './sql'
     FIELDMAPPING = {
@@ -88,9 +88,9 @@ class DrawMapping(object):
                     left join hive.COLUMNS_V2 t5 on t4.CD_ID=t5.CD_ID
                     where 1=1
                     AND t3.`NAME`='sgk_source'
-                    -- AND t2.TBL_NAME='ssd_original_xiaomi_result'
+                    AND t2.TBL_NAME='{table}'
                     ORDER BY DB_NAME,TBL_NAME,COL_INDEX"""
-        sql = f"select * from dangan.tb_ml_temp_t1 where 1=1 and TBL_NAME='{table}'"
+        # sql = f"select * from dangan.tb_ml_temp_t1 where 1=1 and TBL_NAME='{table}'"
         return sql
 
     def _drawMapping(self, table):
@@ -135,8 +135,8 @@ class DrawMapping(object):
         with open(file, mode="w+", encoding="utf-8") as fd:
             fd.write(loads)
             fd.flush()
-            sql = f"update dangan.asset_managament_info set is_load=1 where tbl_name='{line['tbl_name']}'"
-            sql = f"update dangan.tb_ml_temp_t1 set is_load=1 where tbl_name='{line['tbl_name']}'"
+            sql = f"update dangan.asset_managament_info set is_load=1 where table_final_name='{line['tbl_name']}'"
+            # sql = f"update dangan.tb_ml_temp_t1 set is_load=1 where tbl_name='{line['tbl_name']}'"
             execute = self.db.execute(sql, autocommit=True)
             if execute > 0:
                 logger.info(f"【{jBase['database']}.{jBase['table']}】表构建mapping成功！")
@@ -160,8 +160,9 @@ class DrawMapping(object):
         通过查询数据库，来构建表mapping
         :return:
         """
-        # tbls = self.db.read(f'select distinct table_final_name from dangan.asset_managament_info where is_load=0')
-        tbls = self.db.read(f'select distinct tbl_name from dangan.tb_ml_temp_t1 where is_load=0')
+        tbls = self.db.read(
+            f'select distinct table_final_name tbl_name from dangan.asset_managament_info where is_load=0')
+        # tbls = self.db.read(f'select distinct tbl_name from dangan.tb_ml_temp_t1 where is_load=0')
         for tbl in tbls.get_all():
             self._drawMapping(tbl['tbl_name'])
 
@@ -274,8 +275,8 @@ class DrawSql(object):
         with open(sqlFile, mode="w+", encoding="utf-8") as fd:
             write = fd.write(self._spellSql())
             if write:
-                # sql = f"update dangan.table_final_name set is_load=2 where tbl_name='{self.table}'"
-                sql = f"update dangan.tb_ml_temp_t1 set is_load=2 where tbl_name='{self.table}'"
+                sql = f"update dangan.asset_managament_info set is_load=2 where table_final_name='{self.table}'"
+                # sql = f"update dangan.tb_ml_temp_t1 set is_load=2 where tbl_name='{self.table}'"
                 execute = self.db.execute(sql, autocommit=True)
                 if execute:
                     logger.info(f"【{self.database}.{self.table}】表构建SQL成功！")
@@ -290,7 +291,6 @@ class DrawSql(object):
                     self._write_to_file(i)
         if os.path.isdir(Path.MAPPINGPATH.value):
             os.removedirs(Path.MAPPINGPATH.value)
-
 
 
 if __name__ == '__main__':

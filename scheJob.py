@@ -79,7 +79,8 @@ def tick():
         t.join()
         if t.isSuccess:
             table = str(t.cmd).split('/')[2].split('.')[0]
-            sql = f"update dangan.tb_ml_temp_t1 set is_load=3 where tbl_name='{table}'"
+            sql = f"update dangan.asset_managament_info set is_load=3 where table_final_name='{table}'"
+            # sql = f"update dangan.tb_ml_temp_t1 set is_load=3 where tbl_name='{table}'"
             execute = db.execute(sql, autocommit=True)
             if execute > 0:
                 os.remove(os.path.join(sqlPath, table + '.sql'))
@@ -90,6 +91,4 @@ def tick():
 
 
 if __name__ == '__main__':
-    import fire
-
-    fire.Fire({'run': tick})
+    tick()
