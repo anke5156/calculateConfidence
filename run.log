@@ -1,0 +1,1405 @@
+2020-05-09 16:41:49,139 scheJob.py[line:46] INFO 1589013709.138185
+2020-05-09 16:41:49,140 scheJob.py[line:49] INFO ==============================开始构建mapping==============================
+2020-05-09 16:41:49,427 scheJob.py[line:54] INFO ==============================开始构建SQL==============================
+2020-05-09 16:41:49,428 scheJob.py[line:64] INFO ==============================开始执行SQL文件==============================
+2020-05-09 16:41:49,428 scheJob.py[line:88] INFO ==============================All Job Done!==============================
+2020-05-09 16:42:02,552 scheJob.py[line:46] INFO 1589013722.5519848
+2020-05-09 16:42:02,552 scheJob.py[line:49] INFO ==============================开始构建mapping==============================
+2020-05-09 16:42:02,774 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.126wangyi_result】表...
+2020-05-09 16:42:02,780 calculateConfidence.py[line:130] INFO 【sgk_source.126wangyi_result】表构建mapping成功！
+2020-05-09 16:42:02,782 scheJob.py[line:54] INFO ==============================开始构建SQL==============================
+2020-05-09 16:42:02,783 scheJob.py[line:61] INFO 正在处理【./mapping/126wangyi_result.json】文件
+2020-05-09 16:42:02,795 calculateConfidence.py[line:262] INFO 【sgk_source.126wangyi_result】表构建SQL成功！
+2020-05-09 16:42:02,795 scheJob.py[line:64] INFO ==============================开始执行SQL文件==============================
+2020-05-09 16:42:02,796 scheJob.py[line:75] INFO 正在处理【./sql/126wangyi_result.sql】文件
+2020-05-09 16:42:02,796 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/126wangyi_result.sql"】执行成功，退出进程!****]
+2020-05-09 16:42:02,797 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/126wangyi_result.sql"
+2020-05-09 16:42:02,797 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 16:42:02,807 scheJob.py[line:88] INFO ==============================All Job Done!==============================
+2020-05-09 16:43:08,312 loggerPro.py[line:63] INFO info
+2020-05-09 16:43:08,313 loggerPro.py[line:64] WARNING 警告
+2020-05-09 16:43:08,313 loggerPro.py[line:65] ERROR 报错
+2020-05-09 16:43:08,313 loggerPro.py[line:66] CRITICAL 严重
+2020-05-09 16:46:58,232 loggerPro.py[line:63] INFO info
+2020-05-09 16:46:58,232 loggerPro.py[line:64] WARNING 警告
+2020-05-09 16:46:58,232 loggerPro.py[line:65] ERROR 报错
+2020-05-09 16:46:58,232 loggerPro.py[line:66] CRITICAL 严重
+2020-05-09 16:47:02,182 scheJob.py[line:46] INFO 1589014022.1827352
+2020-05-09 16:47:02,183 scheJob.py[line:49] INFO ==============================开始构建mapping==============================
+2020-05-09 16:47:02,458 scheJob.py[line:54] INFO ==============================开始构建SQL==============================
+2020-05-09 16:47:02,458 scheJob.py[line:64] INFO ==============================开始执行SQL文件==============================
+2020-05-09 16:47:13,612 scheJob.py[line:46] INFO 1589014033.6126342
+2020-05-09 16:47:13,613 scheJob.py[line:49] INFO ==============================开始构建mapping==============================
+2020-05-09 16:47:13,912 scheJob.py[line:54] INFO ==============================开始构建SQL==============================
+2020-05-09 16:47:13,912 scheJob.py[line:64] INFO ==============================开始执行SQL文件==============================
+2020-05-09 16:47:13,913 scheJob.py[line:89] INFO ==============================All Job Done!==============================
+2020-05-09 16:48:06,278 scheJob.py[line:46] INFO 1589014086.278559
+2020-05-09 16:48:06,279 scheJob.py[line:49] INFO ==============================开始构建mapping==============================
+2020-05-09 16:48:06,559 scheJob.py[line:54] INFO ==============================开始构建SQL==============================
+2020-05-09 16:48:06,560 scheJob.py[line:64] INFO ==============================开始执行SQL文件==============================
+2020-05-09 16:49:08,906 scheJob.py[line:46] INFO 1589014148.905918
+2020-05-09 16:49:08,906 scheJob.py[line:49] INFO ==============================开始构建mapping==============================
+2020-05-09 16:49:09,153 scheJob.py[line:54] INFO ==============================开始构建SQL==============================
+2020-05-09 16:49:09,154 scheJob.py[line:64] INFO ==============================开始执行SQL文件==============================
+2020-05-09 16:49:09,154 scheJob.py[line:90] INFO ==============================All Job Done!==============================
+2020-05-09 16:49:49,270 scheJob.py[line:46] INFO 1589014189.269835
+2020-05-09 16:49:49,270 scheJob.py[line:49] INFO ==============================开始构建mapping==============================
+2020-05-09 16:49:49,548 scheJob.py[line:54] INFO ==============================开始构建SQL==============================
+2020-05-09 16:49:49,548 scheJob.py[line:64] INFO ==============================开始执行SQL文件==============================
+2020-05-09 16:49:49,549 scheJob.py[line:90] INFO ==============================All Job Done!==============================
+2020-05-09 16:50:01,191 scheJob.py[line:46] INFO 1589014201.191544
+2020-05-09 16:50:01,192 scheJob.py[line:49] INFO ==============================开始构建mapping==============================
+2020-05-09 16:50:01,374 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.126wangyi_result】表...
+2020-05-09 16:50:01,377 calculateConfidence.py[line:130] INFO 【sgk_source.126wangyi_result】表构建mapping成功！
+2020-05-09 16:50:01,378 scheJob.py[line:54] INFO ==============================开始构建SQL==============================
+2020-05-09 16:50:01,379 scheJob.py[line:61] INFO 正在处理【./mapping/126wangyi_result.json】文件
+2020-05-09 16:50:01,389 calculateConfidence.py[line:262] INFO 【sgk_source.126wangyi_result】表构建SQL成功！
+2020-05-09 16:50:01,390 scheJob.py[line:64] INFO ==============================开始执行SQL文件==============================
+2020-05-09 16:50:01,391 scheJob.py[line:75] INFO 正在处理【./sql/126wangyi_result.sql】文件
+2020-05-09 16:50:01,391 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/126wangyi_result.sql"】执行成功，退出进程!****]
+2020-05-09 16:50:01,391 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/126wangyi_result.sql"
+2020-05-09 16:50:01,391 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 16:50:01,419 scheJob.py[line:90] INFO ==============================All Job Done!==============================
+2020-05-09 16:50:23,592 scheJob.py[line:46] INFO 1589014223.592561
+2020-05-09 16:50:23,593 scheJob.py[line:49] INFO ==============================开始构建mapping==============================
+2020-05-09 16:50:23,813 scheJob.py[line:54] INFO ==============================开始构建SQL==============================
+2020-05-09 16:50:23,814 scheJob.py[line:64] INFO ==============================开始执行SQL文件==============================
+2020-05-09 16:50:23,816 scheJob.py[line:90] INFO ==============================All Job Done!==============================
+2020-05-09 16:50:28,096 scheJob.py[line:46] INFO 1589014228.096386
+2020-05-09 16:50:28,097 scheJob.py[line:49] INFO ==============================开始构建mapping==============================
+2020-05-09 16:50:28,308 scheJob.py[line:54] INFO ==============================开始构建SQL==============================
+2020-05-09 16:50:28,310 scheJob.py[line:64] INFO ==============================开始执行SQL文件==============================
+2020-05-09 16:50:28,311 scheJob.py[line:90] INFO ==============================All Job Done!==============================
+2020-05-09 16:50:33,088 scheJob.py[line:46] INFO 1589014233.0884259
+2020-05-09 16:50:33,089 scheJob.py[line:49] INFO ==============================开始构建mapping==============================
+2020-05-09 16:50:33,273 scheJob.py[line:54] INFO ==============================开始构建SQL==============================
+2020-05-09 16:50:33,273 scheJob.py[line:64] INFO ==============================开始执行SQL文件==============================
+2020-05-09 16:50:33,274 scheJob.py[line:90] INFO ==============================All Job Done!==============================
+2020-05-09 16:50:50,527 scheJob.py[line:46] INFO 1589014250.526932
+2020-05-09 16:50:50,527 scheJob.py[line:49] INFO ==============================开始构建mapping==============================
+2020-05-09 16:50:50,742 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.126wangyi_result】表...
+2020-05-09 16:50:50,747 calculateConfidence.py[line:130] INFO 【sgk_source.126wangyi_result】表构建mapping成功！
+2020-05-09 16:50:50,751 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_163_pc202004110011_result】表...
+2020-05-09 16:50:50,754 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_163_pc202004110011_result】表构建mapping成功！
+2020-05-09 16:50:50,756 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_163_pc202004110012_result】表...
+2020-05-09 16:50:50,758 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_163_pc202004110012_result】表构建mapping成功！
+2020-05-09 16:50:50,760 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_163_pc202004110013_result】表...
+2020-05-09 16:50:50,763 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_163_pc202004110013_result】表构建mapping成功！
+2020-05-09 16:50:50,765 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_163_pc202004110014_result】表...
+2020-05-09 16:50:50,768 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_163_pc202004110014_result】表构建mapping成功！
+2020-05-09 16:50:50,770 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300015_result】表...
+2020-05-09 16:50:50,772 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300015_result】表构建mapping成功！
+2020-05-09 16:50:50,774 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300016_result】表...
+2020-05-09 16:50:50,778 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300016_result】表构建mapping成功！
+2020-05-09 16:50:50,780 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300017_result】表...
+2020-05-09 16:50:50,782 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300017_result】表构建mapping成功！
+2020-05-09 16:50:50,784 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300018_result】表...
+2020-05-09 16:50:50,787 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300018_result】表构建mapping成功！
+2020-05-09 16:50:50,789 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300019_result】表...
+2020-05-09 16:50:50,791 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300019_result】表构建mapping成功！
+2020-05-09 16:50:50,793 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300020_result】表...
+2020-05-09 16:50:50,799 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300020_result】表构建mapping成功！
+2020-05-09 16:50:50,802 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300021_result】表...
+2020-05-09 16:50:50,804 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300021_result】表构建mapping成功！
+2020-05-09 16:50:50,806 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300022_result】表...
+2020-05-09 16:50:50,808 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300022_result】表构建mapping成功！
+2020-05-09 16:50:50,810 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300023_result】表...
+2020-05-09 16:50:50,813 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300023_result】表构建mapping成功！
+2020-05-09 16:50:50,815 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300024_result】表...
+2020-05-09 16:50:50,817 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300024_result】表构建mapping成功！
+2020-05-09 16:50:50,820 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_92hacker_pc202004010010_result】表...
+2020-05-09 16:50:50,822 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_92hacker_pc202004010010_result】表构建mapping成功！
+2020-05-09 16:50:50,824 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_acfun_pc202004110001_result】表...
+2020-05-09 16:50:50,826 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_acfun_pc202004110001_result】表构建mapping成功！
+2020-05-09 16:50:50,829 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_csdn_pc202004110007_result】表...
+2020-05-09 16:50:50,831 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_csdn_pc202004110007_result】表构建mapping成功！
+2020-05-09 16:50:50,834 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_hanting_pc202004110002_result】表...
+2020-05-09 16:50:50,837 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_hanting_pc202004110002_result】表构建mapping成功！
+2020-05-09 16:50:50,840 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_hanting_pc202004110003_result】表...
+2020-05-09 16:50:50,842 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_hanting_pc202004110003_result】表构建mapping成功！
+2020-05-09 16:50:50,845 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_hanting_pc202004110004_result】表...
+2020-05-09 16:50:50,848 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_hanting_pc202004110004_result】表构建mapping成功！
+2020-05-09 16:50:50,850 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_hanting_pc202004110008_result】表...
+2020-05-09 16:50:50,853 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_hanting_pc202004110008_result】表构建mapping成功！
+2020-05-09 16:50:50,855 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_renren_pc202004110009_result】表...
+2020-05-09 16:50:50,857 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_renren_pc202004110009_result】表构建mapping成功！
+2020-05-09 16:50:50,860 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_shangpu_pc2020050500001_result】表...
+2020-05-09 16:50:50,863 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_shangpu_pc2020050500001_result】表构建mapping成功！
+2020-05-09 16:50:50,865 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_taiwanhaiwaiwang_pc202003300030_result】表...
+2020-05-09 16:50:50,868 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_taiwanhaiwaiwang_pc202003300030_result】表构建mapping成功！
+2020-05-09 16:50:50,870 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_web_pc202004010012_result】表...
+2020-05-09 16:50:50,872 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_web_pc202004010012_result】表构建mapping成功！
+2020-05-09 16:50:50,874 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_yiyi_pc202004010004_result】表...
+2020-05-09 16:50:50,876 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_yiyi_pc202004010004_result】表构建mapping成功！
+2020-05-09 16:50:50,879 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_zhenaiwang_pc202003300038_result】表...
+2020-05-09 16:50:50,881 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300038_result】表构建mapping成功！
+2020-05-09 16:50:50,883 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_zhenaiwang_pc202003300040_result】表...
+2020-05-09 16:50:50,886 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300040_result】表构建mapping成功！
+2020-05-09 16:50:50,888 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_zhenaiwang_pc202003300041_result】表...
+2020-05-09 16:50:50,896 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300041_result】表构建mapping成功！
+2020-05-09 16:50:50,905 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_zhenaiwang_pc202003300042_result】表...
+2020-05-09 16:50:50,907 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300042_result】表构建mapping成功！
+2020-05-09 16:50:50,909 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_zhenaiwang_pc202004010008_result】表...
+2020-05-09 16:50:50,911 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_zhenaiwang_pc202004010008_result】表构建mapping成功！
+2020-05-09 16:50:50,916 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_zp_pc202003300027_result】表...
+2020-05-09 16:50:50,919 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_zp_pc202003300027_result】表构建mapping成功！
+2020-05-09 16:50:50,921 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.ssd_12306account_result】表...
+2020-05-09 16:50:50,923 calculateConfidence.py[line:130] INFO 【sgk_source.ssd_12306account_result】表构建mapping成功！
+2020-05-09 16:50:50,925 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.ssd_12306lianxiren_result】表...
+2020-05-09 16:50:50,929 calculateConfidence.py[line:130] INFO 【sgk_source.ssd_12306lianxiren_result】表构建mapping成功！
+2020-05-09 16:50:50,931 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.ssd_163com_result】表...
+2020-05-09 16:50:50,933 calculateConfidence.py[line:130] INFO 【sgk_source.ssd_163com_result】表构建mapping成功！
+2020-05-09 16:50:50,936 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.ssd_csdn_result】表...
+2020-05-09 16:50:50,938 calculateConfidence.py[line:130] INFO 【sgk_source.ssd_csdn_result】表构建mapping成功！
+2020-05-09 16:50:50,940 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.ssd_original_acfun_result】表...
+2020-05-09 16:50:50,942 calculateConfidence.py[line:130] INFO 【sgk_source.ssd_original_acfun_result】表构建mapping成功！
+2020-05-09 16:50:50,944 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.ssd_original_xiaomi_result】表...
+2020-05-09 16:50:50,948 calculateConfidence.py[line:130] INFO 【sgk_source.ssd_original_xiaomi_result】表构建mapping成功！
+2020-05-09 16:50:50,952 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.ssd_renren_result】表...
+2020-05-09 16:50:50,959 calculateConfidence.py[line:130] INFO 【sgk_source.ssd_renren_result】表构建mapping成功！
+2020-05-09 16:50:50,963 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.tianya_result】表...
+2020-05-09 16:50:50,968 calculateConfidence.py[line:130] INFO 【sgk_source.tianya_result】表构建mapping成功！
+2020-05-09 16:50:50,969 scheJob.py[line:54] INFO ==============================开始构建SQL==============================
+2020-05-09 16:50:50,973 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_zp_pc202003300027_result.json】文件
+2020-05-09 16:50:51,023 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_zp_pc202003300027_result】表构建SQL成功！
+2020-05-09 16:51:05,650 scheJob.py[line:46] INFO 1589014265.650542
+2020-05-09 16:51:05,651 scheJob.py[line:49] INFO ==============================开始构建mapping==============================
+2020-05-09 16:51:05,832 scheJob.py[line:54] INFO ==============================开始构建SQL==============================
+2020-05-09 16:51:05,833 scheJob.py[line:61] INFO 正在处理【./mapping/ssd_12306lianxiren_result.json】文件
+2020-05-09 16:51:05,845 calculateConfidence.py[line:262] INFO 【sgk_source.ssd_12306lianxiren_result】表构建SQL成功！
+2020-05-09 16:52:19,716 scheJob.py[line:46] INFO 1589014339.7159748
+2020-05-09 16:52:19,717 scheJob.py[line:49] INFO ==============================开始构建mapping==============================
+2020-05-09 16:52:19,958 scheJob.py[line:54] INFO ==============================开始构建SQL==============================
+2020-05-09 16:52:19,959 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300017_result.json】文件
+2020-05-09 16:52:19,970 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300017_result】表构建SQL成功！
+2020-05-09 16:53:51,741 scheJob.py[line:46] INFO 1589014431.741106
+2020-05-09 16:53:51,743 scheJob.py[line:49] INFO ==============================开始构建mapping==============================
+2020-05-09 16:53:52,160 scheJob.py[line:54] INFO ==============================开始构建SQL==============================
+2020-05-09 16:53:52,162 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_zhenaiwang_pc202003300040_result.json】文件
+2020-05-09 16:56:44,115 scheJob.py[line:46] INFO 1589014604.115257
+2020-05-09 16:56:44,116 scheJob.py[line:49] INFO ==============================开始构建mapping==============================
+2020-05-09 16:56:44,540 scheJob.py[line:54] INFO ==============================开始构建SQL==============================
+2020-05-09 16:56:44,543 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_zhenaiwang_pc202003300040_result.json】文件
+2020-05-09 16:57:56,480 scheJob.py[line:46] INFO 1589014676.480334
+2020-05-09 16:57:56,481 scheJob.py[line:49] INFO ==============================开始构建mapping==============================
+2020-05-09 16:57:57,065 scheJob.py[line:54] INFO ==============================开始构建SQL==============================
+2020-05-09 16:57:57,068 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_zhenaiwang_pc202003300040_result.json】文件
+2020-05-09 16:59:16,307 scheJob.py[line:46] INFO 1589014756.307025
+2020-05-09 16:59:16,308 scheJob.py[line:49] INFO ==============================开始构建mapping==============================
+2020-05-09 16:59:16,937 scheJob.py[line:54] INFO ==============================开始构建SQL==============================
+2020-05-09 16:59:16,940 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_zhenaiwang_pc202003300040_result.json】文件
+2020-05-09 16:59:33,582 scheJob.py[line:46] INFO 1589014773.5824902
+2020-05-09 16:59:33,584 scheJob.py[line:49] INFO ==============================开始构建mapping==============================
+2020-05-09 16:59:34,044 scheJob.py[line:54] INFO ==============================开始构建SQL==============================
+2020-05-09 16:59:34,046 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_zhenaiwang_pc202003300040_result.json】文件
+2020-05-09 16:59:48,192 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300040_result】表构建SQL成功！
+2020-05-09 17:00:39,388 scheJob.py[line:46] INFO 1589014839.388078
+2020-05-09 17:00:39,388 scheJob.py[line:49] INFO ==============================开始构建mapping==============================
+2020-05-09 17:00:39,741 scheJob.py[line:54] INFO ==============================开始构建SQL==============================
+2020-05-09 17:00:39,745 scheJob.py[line:61] INFO 正在处理【./mapping/ssd_original_xiaomi_result.json】文件
+2020-05-09 17:00:39,766 calculateConfidence.py[line:262] INFO 【sgk_source.ssd_original_xiaomi_result】表构建SQL成功！
+2020-05-09 17:00:39,768 scheJob.py[line:61] INFO 正在处理【./mapping/ssd_renren_result.json】文件
+2020-05-09 17:00:39,794 calculateConfidence.py[line:262] INFO 【sgk_source.ssd_renren_result】表构建SQL成功！
+2020-05-09 17:00:39,798 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300020_result.json】文件
+2020-05-09 17:00:39,817 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300020_result】表构建SQL成功！
+2020-05-09 17:00:39,818 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_163_pc202004110012_result.json】文件
+2020-05-09 17:00:39,835 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_163_pc202004110012_result】表构建SQL成功！
+2020-05-09 17:00:39,837 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_92hacker_pc202004010010_result.json】文件
+2020-05-09 17:00:39,847 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_92hacker_pc202004010010_result】表构建SQL成功！
+2020-05-09 17:00:39,849 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300018_result.json】文件
+2020-05-09 17:00:39,864 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300018_result】表构建SQL成功！
+2020-05-09 17:00:39,866 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_163_pc202004110011_result.json】文件
+2020-05-09 17:00:39,882 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_163_pc202004110011_result】表构建SQL成功！
+2020-05-09 17:00:39,884 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_web_pc202004010012_result.json】文件
+2020-05-09 17:00:39,902 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_web_pc202004010012_result】表构建SQL成功！
+2020-05-09 17:00:39,904 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300023_result.json】文件
+2020-05-09 17:00:39,920 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300023_result】表构建SQL成功！
+2020-05-09 17:00:39,923 scheJob.py[line:61] INFO 正在处理【./mapping/ssd_csdn_result.json】文件
+2020-05-09 17:00:39,948 calculateConfidence.py[line:262] INFO 【sgk_source.ssd_csdn_result】表构建SQL成功！
+2020-05-09 17:00:39,952 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_hanting_pc202004110003_result.json】文件
+2020-05-09 17:00:39,991 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_hanting_pc202004110003_result】表构建SQL成功！
+2020-05-09 17:00:39,997 scheJob.py[line:61] INFO 正在处理【./mapping/126wangyi_result.json】文件
+2020-05-09 17:00:40,054 calculateConfidence.py[line:262] INFO 【sgk_source.126wangyi_result】表构建SQL成功！
+2020-05-09 17:00:40,057 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_163_pc202004110014_result.json】文件
+2020-05-09 17:00:40,068 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_163_pc202004110014_result】表构建SQL成功！
+2020-05-09 17:00:40,070 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_taiwanhaiwaiwang_pc202003300030_result.json】文件
+2020-05-09 17:00:40,087 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_taiwanhaiwaiwang_pc202003300030_result】表构建SQL成功！
+2020-05-09 17:00:40,088 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_hanting_pc202004110004_result.json】文件
+2020-05-09 17:00:40,100 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_hanting_pc202004110004_result】表构建SQL成功！
+2020-05-09 17:00:40,102 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_shangpu_pc2020050500001_result.json】文件
+2020-05-09 17:00:40,118 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_shangpu_pc2020050500001_result】表构建SQL成功！
+2020-05-09 17:00:40,120 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_acfun_pc202004110001_result.json】文件
+2020-05-09 17:00:40,148 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_acfun_pc202004110001_result】表构建SQL成功！
+2020-05-09 17:00:40,150 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_163_pc202004110013_result.json】文件
+2020-05-09 17:00:40,179 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_163_pc202004110013_result】表构建SQL成功！
+2020-05-09 17:00:40,183 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_zhenaiwang_pc202004010008_result.json】文件
+2020-05-09 17:00:40,245 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_zhenaiwang_pc202004010008_result】表构建SQL成功！
+2020-05-09 17:00:40,254 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300021_result.json】文件
+2020-05-09 17:00:40,293 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300021_result】表构建SQL成功！
+2020-05-09 17:00:40,299 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300024_result.json】文件
+2020-05-09 17:00:40,319 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300024_result】表构建SQL成功！
+2020-05-09 17:00:40,321 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_hanting_pc202004110008_result.json】文件
+2020-05-09 17:00:40,339 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_hanting_pc202004110008_result】表构建SQL成功！
+2020-05-09 17:00:40,341 scheJob.py[line:61] INFO 正在处理【./mapping/ssd_12306account_result.json】文件
+2020-05-09 17:00:40,369 calculateConfidence.py[line:262] INFO 【sgk_source.ssd_12306account_result】表构建SQL成功！
+2020-05-09 17:00:40,372 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_zhenaiwang_pc202003300041_result.json】文件
+2020-05-09 17:00:40,392 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300041_result】表构建SQL成功！
+2020-05-09 17:00:40,394 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300016_result.json】文件
+2020-05-09 17:00:40,455 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300016_result】表构建SQL成功！
+2020-05-09 17:00:40,463 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_zhenaiwang_pc202003300038_result.json】文件
+2020-05-09 17:00:40,491 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300038_result】表构建SQL成功！
+2020-05-09 17:00:40,495 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_csdn_pc202004110007_result.json】文件
+2020-05-09 17:00:40,512 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_csdn_pc202004110007_result】表构建SQL成功！
+2020-05-09 17:00:40,513 scheJob.py[line:61] INFO 正在处理【./mapping/ssd_original_acfun_result.json】文件
+2020-05-09 17:00:40,534 calculateConfidence.py[line:262] INFO 【sgk_source.ssd_original_acfun_result】表构建SQL成功！
+2020-05-09 17:00:40,535 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_yiyi_pc202004010004_result.json】文件
+2020-05-09 17:00:40,554 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_yiyi_pc202004010004_result】表构建SQL成功！
+2020-05-09 17:00:40,556 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_hanting_pc202004110002_result.json】文件
+2020-05-09 17:00:40,568 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_hanting_pc202004110002_result】表构建SQL成功！
+2020-05-09 17:00:40,570 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_zhenaiwang_pc202003300042_result.json】文件
+2020-05-09 17:00:40,592 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300042_result】表构建SQL成功！
+2020-05-09 17:00:40,601 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300015_result.json】文件
+2020-05-09 17:00:40,659 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300015_result】表构建SQL成功！
+2020-05-09 17:00:40,666 scheJob.py[line:61] INFO 正在处理【./mapping/tianya_result.json】文件
+2020-05-09 17:00:40,693 calculateConfidence.py[line:262] INFO 【sgk_source.tianya_result】表构建SQL成功！
+2020-05-09 17:00:40,695 scheJob.py[line:61] INFO 正在处理【./mapping/ssd_163com_result.json】文件
+2020-05-09 17:00:40,709 calculateConfidence.py[line:262] INFO 【sgk_source.ssd_163com_result】表构建SQL成功！
+2020-05-09 17:00:40,711 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300022_result.json】文件
+2020-05-09 17:00:40,726 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300022_result】表构建SQL成功！
+2020-05-09 17:00:40,728 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300019_result.json】文件
+2020-05-09 17:00:40,739 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300019_result】表构建SQL成功！
+2020-05-09 17:00:40,741 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_renren_pc202004110009_result.json】文件
+2020-05-09 17:00:40,755 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_renren_pc202004110009_result】表构建SQL成功！
+2020-05-09 17:00:40,755 scheJob.py[line:66] INFO ==============================开始执行SQL文件==============================
+2020-05-09 17:00:40,757 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300023_result.sql】文件
+2020-05-09 17:00:40,757 scheJob.py[line:77] INFO 正在处理【./sql/ssd_12306account_result.sql】文件
+2020-05-09 17:00:40,757 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_zp_pc202003300027_result.sql】文件
+2020-05-09 17:00:40,758 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_zhenaiwang_pc202003300040_result.sql】文件
+2020-05-09 17:00:40,758 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300019_result.sql】文件
+2020-05-09 17:00:40,758 scheJob.py[line:77] INFO 正在处理【./sql/ssd_original_xiaomi_result.sql】文件
+2020-05-09 17:00:40,758 scheJob.py[line:77] INFO 正在处理【./sql/ssd_original_acfun_result.sql】文件
+2020-05-09 17:00:40,759 scheJob.py[line:77] INFO 正在处理【./sql/ssd_renren_result.sql】文件
+2020-05-09 17:00:40,759 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_92hacker_pc202004010010_result.sql】文件
+2020-05-09 17:00:40,759 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_hanting_pc202004110003_result.sql】文件
+2020-05-09 17:00:40,759 scheJob.py[line:77] INFO 正在处理【./sql/tianya_result.sql】文件
+2020-05-09 17:00:40,759 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_hanting_pc202004110004_result.sql】文件
+2020-05-09 17:00:40,760 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300021_result.sql】文件
+2020-05-09 17:00:40,760 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_163_pc202004110012_result.sql】文件
+2020-05-09 17:00:40,760 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300016_result.sql】文件
+2020-05-09 17:00:40,761 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_zhenaiwang_pc202003300042_result.sql】文件
+2020-05-09 17:00:40,761 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_acfun_pc202004110001_result.sql】文件
+2020-05-09 17:00:40,761 scheJob.py[line:77] INFO 正在处理【./sql/ssd_12306lianxiren_result.sql】文件
+2020-05-09 17:00:40,762 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300024_result.sql】文件
+2020-05-09 17:00:40,762 scheJob.py[line:77] INFO 正在处理【./sql/ssd_163com_result.sql】文件
+2020-05-09 17:00:40,763 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_163_pc202004110014_result.sql】文件
+2020-05-09 17:00:40,763 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_hanting_pc202004110002_result.sql】文件
+2020-05-09 17:00:40,763 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_zhenaiwang_pc202003300041_result.sql】文件
+2020-05-09 17:00:40,764 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300015_result.sql】文件
+2020-05-09 17:00:40,764 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300022_result.sql】文件
+2020-05-09 17:00:40,764 scheJob.py[line:77] INFO 正在处理【./sql/126wangyi_result.sql】文件
+2020-05-09 17:00:40,764 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_163_pc202004110011_result.sql】文件
+2020-05-09 17:00:40,765 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300018_result.sql】文件
+2020-05-09 17:00:40,765 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_csdn_pc202004110007_result.sql】文件
+2020-05-09 17:00:40,765 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_web_pc202004010012_result.sql】文件
+2020-05-09 17:00:40,765 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_renren_pc202004110009_result.sql】文件
+2020-05-09 17:00:40,766 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_zhenaiwang_pc202003300038_result.sql】文件
+2020-05-09 17:00:40,766 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_zhenaiwang_pc202004010008_result.sql】文件
+2020-05-09 17:00:40,766 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_yiyi_pc202004010004_result.sql】文件
+2020-05-09 17:00:40,766 scheJob.py[line:77] INFO 正在处理【./sql/ssd_csdn_result.sql】文件
+2020-05-09 17:00:40,766 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_shangpu_pc2020050500001_result.sql】文件
+2020-05-09 17:00:40,767 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_163_pc202004110013_result.sql】文件
+2020-05-09 17:00:40,767 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300020_result.sql】文件
+2020-05-09 17:00:40,767 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300017_result.sql】文件
+2020-05-09 17:00:40,767 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_taiwanhaiwaiwang_pc202003300030_result.sql】文件
+2020-05-09 17:00:40,767 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_hanting_pc202004110008_result.sql】文件
+2020-05-09 17:00:40,768 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300023_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,768 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300023_result.sql"
+2020-05-09 17:00:40,768 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_12306account_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,768 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,769 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_12306account_result.sql"
+2020-05-09 17:00:40,769 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_zp_pc202003300027_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,769 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_zhenaiwang_pc202003300040_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,769 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,769 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_zp_pc202003300027_result.sql"
+2020-05-09 17:00:40,769 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300019_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,770 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_zhenaiwang_pc202003300040_result.sql"
+2020-05-09 17:00:40,770 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_original_xiaomi_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,770 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,770 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_original_acfun_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,770 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_renren_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,770 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300019_result.sql"
+2020-05-09 17:00:40,770 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_92hacker_pc202004010010_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,771 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_hanting_pc202004110003_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,771 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,771 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/tianya_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,771 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_hanting_pc202004110004_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,771 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_original_xiaomi_result.sql"
+2020-05-09 17:00:40,771 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300021_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,771 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_163_pc202004110012_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,772 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300016_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,772 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_original_acfun_result.sql"
+2020-05-09 17:00:40,772 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_zhenaiwang_pc202003300042_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,772 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_acfun_pc202004110001_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,772 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_renren_result.sql"
+2020-05-09 17:00:40,772 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_12306lianxiren_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,772 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300024_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,772 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,772 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_163com_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,773 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_92hacker_pc202004010010_result.sql"
+2020-05-09 17:00:40,773 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_163_pc202004110014_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,773 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_hanting_pc202004110002_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,773 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_hanting_pc202004110003_result.sql"
+2020-05-09 17:00:40,773 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_zhenaiwang_pc202003300041_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,773 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300015_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,773 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300022_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,774 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/tianya_result.sql"
+2020-05-09 17:00:40,774 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/126wangyi_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,774 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_163_pc202004110011_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,774 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_hanting_pc202004110004_result.sql"
+2020-05-09 17:00:40,774 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300018_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,774 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,774 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_csdn_pc202004110007_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,774 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_web_pc202004010012_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,775 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300021_result.sql"
+2020-05-09 17:00:40,775 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_renren_pc202004110009_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,775 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_zhenaiwang_pc202003300038_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,775 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_163_pc202004110012_result.sql"
+2020-05-09 17:00:40,775 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_zhenaiwang_pc202004010008_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,775 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_yiyi_pc202004010004_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,775 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300016_result.sql"
+2020-05-09 17:00:40,775 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_csdn_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,775 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_shangpu_pc2020050500001_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,776 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,776 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_163_pc202004110013_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,776 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300020_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,776 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_zhenaiwang_pc202003300042_result.sql"
+2020-05-09 17:00:40,776 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300017_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,776 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_taiwanhaiwaiwang_pc202003300030_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,776 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_acfun_pc202004110001_result.sql"
+2020-05-09 17:00:40,776 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_hanting_pc202004110008_result.sql"】执行成功，退出进程!****]
+2020-05-09 17:00:40,777 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,778 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_12306lianxiren_result.sql"
+2020-05-09 17:00:40,778 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300024_result.sql"
+2020-05-09 17:00:40,778 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_163com_result.sql"
+2020-05-09 17:00:40,778 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,779 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_163_pc202004110014_result.sql"
+2020-05-09 17:00:40,779 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_hanting_pc202004110002_result.sql"
+2020-05-09 17:00:40,794 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,779 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_zhenaiwang_pc202003300041_result.sql"
+2020-05-09 17:00:40,779 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300015_result.sql"
+2020-05-09 17:00:40,780 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300022_result.sql"
+2020-05-09 17:00:40,780 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,780 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/126wangyi_result.sql"
+2020-05-09 17:00:40,780 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_163_pc202004110011_result.sql"
+2020-05-09 17:00:40,780 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,780 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300018_result.sql"
+2020-05-09 17:00:40,781 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_csdn_pc202004110007_result.sql"
+2020-05-09 17:00:40,781 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_web_pc202004010012_result.sql"
+2020-05-09 17:00:40,781 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,782 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_renren_pc202004110009_result.sql"
+2020-05-09 17:00:40,782 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_zhenaiwang_pc202003300038_result.sql"
+2020-05-09 17:00:40,782 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,782 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_zhenaiwang_pc202004010008_result.sql"
+2020-05-09 17:00:40,782 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_yiyi_pc202004010004_result.sql"
+2020-05-09 17:00:40,783 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,787 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_csdn_result.sql"
+2020-05-09 17:00:40,787 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_shangpu_pc2020050500001_result.sql"
+2020-05-09 17:00:40,788 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_163_pc202004110013_result.sql"
+2020-05-09 17:00:40,789 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300020_result.sql"
+2020-05-09 17:00:40,789 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,790 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300017_result.sql"
+2020-05-09 17:00:40,790 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_taiwanhaiwaiwang_pc202003300030_result.sql"
+2020-05-09 17:00:40,791 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,792 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_hanting_pc202004110008_result.sql"
+2020-05-09 17:00:40,793 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,793 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,793 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,794 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,779 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,795 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,796 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,796 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,797 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,797 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,799 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,799 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,799 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,801 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,805 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,808 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,808 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,809 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,809 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,809 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,809 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,810 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,811 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,812 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-09 17:00:40,978 scheJob.py[line:92] INFO ==============================All Job Done!==============================
+2020-05-09 17:00:45,819 scheJob.py[line:46] INFO 1589014845.8189282
+2020-05-09 17:00:45,819 scheJob.py[line:49] INFO ==============================开始构建mapping==============================
+2020-05-09 17:00:46,068 scheJob.py[line:54] INFO ==============================开始构建SQL==============================
+2020-05-09 17:00:46,068 scheJob.py[line:66] INFO ==============================开始执行SQL文件==============================
+2020-05-09 17:00:46,069 scheJob.py[line:92] INFO ==============================All Job Done!==============================
+2020-05-10 10:55:00,619 scheJob.py[line:46] INFO 1589079300.6195772
+2020-05-10 10:55:00,620 scheJob.py[line:49] INFO ==============================开始构建mapping==============================
+2020-05-10 10:55:01,041 scheJob.py[line:54] INFO ==============================开始构建SQL==============================
+2020-05-10 10:55:01,041 scheJob.py[line:66] INFO ==============================开始执行SQL文件==============================
+2020-05-10 10:55:01,042 scheJob.py[line:93] INFO ==============================All Job Done!==============================
+2020-05-10 10:55:17,397 scheJob.py[line:46] INFO 1589079317.396853
+2020-05-10 10:55:17,398 scheJob.py[line:49] INFO ==============================开始构建mapping==============================
+2020-05-10 10:55:17,818 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.126wangyi_result】表...
+2020-05-10 10:55:17,822 calculateConfidence.py[line:130] INFO 【sgk_source.126wangyi_result】表构建mapping成功！
+2020-05-10 10:55:17,826 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_163_pc202004110011_result】表...
+2020-05-10 10:55:17,829 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_163_pc202004110011_result】表构建mapping成功！
+2020-05-10 10:55:17,833 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_163_pc202004110012_result】表...
+2020-05-10 10:55:17,836 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_163_pc202004110012_result】表构建mapping成功！
+2020-05-10 10:55:17,840 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_163_pc202004110013_result】表...
+2020-05-10 10:55:17,843 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_163_pc202004110013_result】表构建mapping成功！
+2020-05-10 10:55:17,847 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_163_pc202004110014_result】表...
+2020-05-10 10:55:17,850 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_163_pc202004110014_result】表构建mapping成功！
+2020-05-10 10:55:17,854 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300015_result】表...
+2020-05-10 10:55:17,857 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300015_result】表构建mapping成功！
+2020-05-10 10:55:17,860 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300016_result】表...
+2020-05-10 10:55:17,864 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300016_result】表构建mapping成功！
+2020-05-10 10:55:17,868 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300017_result】表...
+2020-05-10 10:55:17,871 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300017_result】表构建mapping成功！
+2020-05-10 10:55:17,876 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300018_result】表...
+2020-05-10 10:55:17,880 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300018_result】表构建mapping成功！
+2020-05-10 10:55:17,884 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300019_result】表...
+2020-05-10 10:55:17,887 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300019_result】表构建mapping成功！
+2020-05-10 10:55:17,894 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300020_result】表...
+2020-05-10 10:55:17,898 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300020_result】表构建mapping成功！
+2020-05-10 10:55:17,902 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300021_result】表...
+2020-05-10 10:55:17,906 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300021_result】表构建mapping成功！
+2020-05-10 10:55:17,910 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300022_result】表...
+2020-05-10 10:55:17,913 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300022_result】表构建mapping成功！
+2020-05-10 10:55:17,917 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300023_result】表...
+2020-05-10 10:55:17,921 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300023_result】表构建mapping成功！
+2020-05-10 10:55:17,925 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300024_result】表...
+2020-05-10 10:55:17,928 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300024_result】表构建mapping成功！
+2020-05-10 10:55:17,933 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_92hacker_pc202004010010_result】表...
+2020-05-10 10:55:17,936 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_92hacker_pc202004010010_result】表构建mapping成功！
+2020-05-10 10:55:17,939 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_acfun_pc202004110001_result】表...
+2020-05-10 10:55:17,942 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_acfun_pc202004110001_result】表构建mapping成功！
+2020-05-10 10:55:17,945 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_csdn_pc202004110007_result】表...
+2020-05-10 10:55:17,949 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_csdn_pc202004110007_result】表构建mapping成功！
+2020-05-10 10:55:17,954 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_hanting_pc202004110002_result】表...
+2020-05-10 10:55:17,957 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_hanting_pc202004110002_result】表构建mapping成功！
+2020-05-10 10:55:17,962 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_hanting_pc202004110003_result】表...
+2020-05-10 10:55:17,965 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_hanting_pc202004110003_result】表构建mapping成功！
+2020-05-10 10:55:17,970 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_hanting_pc202004110004_result】表...
+2020-05-10 10:55:17,973 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_hanting_pc202004110004_result】表构建mapping成功！
+2020-05-10 10:55:17,978 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_hanting_pc202004110008_result】表...
+2020-05-10 10:55:17,981 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_hanting_pc202004110008_result】表构建mapping成功！
+2020-05-10 10:55:17,985 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_renren_pc202004110009_result】表...
+2020-05-10 10:55:17,988 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_renren_pc202004110009_result】表构建mapping成功！
+2020-05-10 10:55:17,996 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_shangpu_pc2020050500001_result】表...
+2020-05-10 10:55:17,999 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_shangpu_pc2020050500001_result】表构建mapping成功！
+2020-05-10 10:55:18,003 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_taiwanhaiwaiwang_pc202003300030_result】表...
+2020-05-10 10:55:18,008 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_taiwanhaiwaiwang_pc202003300030_result】表构建mapping成功！
+2020-05-10 10:55:18,012 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_web_pc202004010012_result】表...
+2020-05-10 10:55:18,015 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_web_pc202004010012_result】表构建mapping成功！
+2020-05-10 10:55:18,020 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_yiyi_pc202004010004_result】表...
+2020-05-10 10:55:18,028 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_yiyi_pc202004010004_result】表构建mapping成功！
+2020-05-10 10:55:18,036 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_zhenaiwang_pc202003300038_result】表...
+2020-05-10 10:55:18,044 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300038_result】表构建mapping成功！
+2020-05-10 10:55:18,059 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_zhenaiwang_pc202003300040_result】表...
+2020-05-10 10:55:18,079 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300040_result】表构建mapping成功！
+2020-05-10 10:55:18,094 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_zhenaiwang_pc202003300041_result】表...
+2020-05-10 10:55:18,112 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300041_result】表构建mapping成功！
+2020-05-10 10:55:18,133 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_zhenaiwang_pc202003300042_result】表...
+2020-05-10 10:55:18,152 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300042_result】表构建mapping成功！
+2020-05-10 10:55:18,158 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_zhenaiwang_pc202004010008_result】表...
+2020-05-10 10:55:18,163 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_zhenaiwang_pc202004010008_result】表构建mapping成功！
+2020-05-10 10:55:18,167 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_zp_pc202003300027_result】表...
+2020-05-10 10:55:18,171 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_zp_pc202003300027_result】表构建mapping成功！
+2020-05-10 10:55:18,175 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.ssd_12306account_result】表...
+2020-05-10 10:55:18,179 calculateConfidence.py[line:130] INFO 【sgk_source.ssd_12306account_result】表构建mapping成功！
+2020-05-10 10:55:18,184 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.ssd_12306lianxiren_result】表...
+2020-05-10 10:55:18,187 calculateConfidence.py[line:130] INFO 【sgk_source.ssd_12306lianxiren_result】表构建mapping成功！
+2020-05-10 10:55:18,190 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.ssd_163com_result】表...
+2020-05-10 10:55:18,194 calculateConfidence.py[line:130] INFO 【sgk_source.ssd_163com_result】表构建mapping成功！
+2020-05-10 10:55:18,197 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.ssd_csdn_result】表...
+2020-05-10 10:55:18,200 calculateConfidence.py[line:130] INFO 【sgk_source.ssd_csdn_result】表构建mapping成功！
+2020-05-10 10:55:18,205 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.ssd_original_acfun_result】表...
+2020-05-10 10:55:18,208 calculateConfidence.py[line:130] INFO 【sgk_source.ssd_original_acfun_result】表构建mapping成功！
+2020-05-10 10:55:18,212 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.ssd_original_xiaomi_result】表...
+2020-05-10 10:55:18,215 calculateConfidence.py[line:130] INFO 【sgk_source.ssd_original_xiaomi_result】表构建mapping成功！
+2020-05-10 10:55:18,219 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.ssd_renren_result】表...
+2020-05-10 10:55:18,222 calculateConfidence.py[line:130] INFO 【sgk_source.ssd_renren_result】表构建mapping成功！
+2020-05-10 10:55:18,229 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.tianya_result】表...
+2020-05-10 10:55:18,233 calculateConfidence.py[line:130] INFO 【sgk_source.tianya_result】表构建mapping成功！
+2020-05-10 10:55:18,234 scheJob.py[line:54] INFO ==============================开始构建SQL==============================
+2020-05-10 10:55:18,236 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_zp_pc202003300027_result.json】文件
+2020-05-10 10:55:23,692 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_zp_pc202003300027_result】表构建SQL成功！
+2020-05-10 10:55:23,695 scheJob.py[line:61] INFO 正在处理【./mapping/ssd_12306lianxiren_result.json】文件
+2020-05-10 10:55:23,710 calculateConfidence.py[line:262] INFO 【sgk_source.ssd_12306lianxiren_result】表构建SQL成功！
+2020-05-10 10:55:23,712 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300017_result.json】文件
+2020-05-10 10:55:23,729 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300017_result】表构建SQL成功！
+2020-05-10 10:55:23,730 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_zhenaiwang_pc202003300040_result.json】文件
+2020-05-10 10:55:23,749 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300040_result】表构建SQL成功！
+2020-05-10 10:55:23,751 scheJob.py[line:61] INFO 正在处理【./mapping/ssd_original_xiaomi_result.json】文件
+2020-05-10 10:55:23,769 calculateConfidence.py[line:262] INFO 【sgk_source.ssd_original_xiaomi_result】表构建SQL成功！
+2020-05-10 10:55:23,772 scheJob.py[line:61] INFO 正在处理【./mapping/ssd_renren_result.json】文件
+2020-05-10 10:55:23,815 calculateConfidence.py[line:262] INFO 【sgk_source.ssd_renren_result】表构建SQL成功！
+2020-05-10 10:55:23,818 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300020_result.json】文件
+2020-05-10 10:55:23,837 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300020_result】表构建SQL成功！
+2020-05-10 10:55:23,840 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_163_pc202004110012_result.json】文件
+2020-05-10 10:55:23,857 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_163_pc202004110012_result】表构建SQL成功！
+2020-05-10 10:55:23,859 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_92hacker_pc202004010010_result.json】文件
+2020-05-10 10:55:23,886 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_92hacker_pc202004010010_result】表构建SQL成功！
+2020-05-10 10:55:23,888 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300018_result.json】文件
+2020-05-10 10:55:23,911 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300018_result】表构建SQL成功！
+2020-05-10 10:55:23,913 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_163_pc202004110011_result.json】文件
+2020-05-10 10:55:23,937 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_163_pc202004110011_result】表构建SQL成功！
+2020-05-10 10:55:23,940 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_web_pc202004010012_result.json】文件
+2020-05-10 10:55:23,956 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_web_pc202004010012_result】表构建SQL成功！
+2020-05-10 10:55:23,958 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300023_result.json】文件
+2020-05-10 10:55:23,985 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300023_result】表构建SQL成功！
+2020-05-10 10:55:23,989 scheJob.py[line:61] INFO 正在处理【./mapping/ssd_csdn_result.json】文件
+2020-05-10 10:55:24,023 calculateConfidence.py[line:262] INFO 【sgk_source.ssd_csdn_result】表构建SQL成功！
+2020-05-10 10:55:24,028 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_hanting_pc202004110003_result.json】文件
+2020-05-10 10:55:24,059 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_hanting_pc202004110003_result】表构建SQL成功！
+2020-05-10 10:55:24,062 scheJob.py[line:61] INFO 正在处理【./mapping/126wangyi_result.json】文件
+2020-05-10 10:55:24,122 calculateConfidence.py[line:262] INFO 【sgk_source.126wangyi_result】表构建SQL成功！
+2020-05-10 10:55:24,127 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_163_pc202004110014_result.json】文件
+2020-05-10 10:55:24,155 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_163_pc202004110014_result】表构建SQL成功！
+2020-05-10 10:55:24,166 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_taiwanhaiwaiwang_pc202003300030_result.json】文件
+2020-05-10 10:55:24,205 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_taiwanhaiwaiwang_pc202003300030_result】表构建SQL成功！
+2020-05-10 10:55:24,207 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_hanting_pc202004110004_result.json】文件
+2020-05-10 10:55:24,224 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_hanting_pc202004110004_result】表构建SQL成功！
+2020-05-10 10:55:24,226 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_shangpu_pc2020050500001_result.json】文件
+2020-05-10 10:55:24,244 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_shangpu_pc2020050500001_result】表构建SQL成功！
+2020-05-10 10:55:24,246 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_acfun_pc202004110001_result.json】文件
+2020-05-10 10:55:24,263 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_acfun_pc202004110001_result】表构建SQL成功！
+2020-05-10 10:55:24,267 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_163_pc202004110013_result.json】文件
+2020-05-10 10:55:24,283 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_163_pc202004110013_result】表构建SQL成功！
+2020-05-10 10:55:24,286 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_zhenaiwang_pc202004010008_result.json】文件
+2020-05-10 10:55:24,302 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_zhenaiwang_pc202004010008_result】表构建SQL成功！
+2020-05-10 10:55:24,304 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300021_result.json】文件
+2020-05-10 10:55:24,322 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300021_result】表构建SQL成功！
+2020-05-10 10:55:24,325 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300024_result.json】文件
+2020-05-10 10:55:24,348 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300024_result】表构建SQL成功！
+2020-05-10 10:55:24,350 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_hanting_pc202004110008_result.json】文件
+2020-05-10 10:55:24,366 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_hanting_pc202004110008_result】表构建SQL成功！
+2020-05-10 10:55:24,368 scheJob.py[line:61] INFO 正在处理【./mapping/ssd_12306account_result.json】文件
+2020-05-10 10:55:24,388 calculateConfidence.py[line:262] INFO 【sgk_source.ssd_12306account_result】表构建SQL成功！
+2020-05-10 10:55:24,392 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_zhenaiwang_pc202003300041_result.json】文件
+2020-05-10 10:55:24,410 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300041_result】表构建SQL成功！
+2020-05-10 10:55:24,412 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300016_result.json】文件
+2020-05-10 10:55:24,434 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300016_result】表构建SQL成功！
+2020-05-10 10:55:24,436 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_zhenaiwang_pc202003300038_result.json】文件
+2020-05-10 10:55:24,452 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300038_result】表构建SQL成功！
+2020-05-10 10:55:24,453 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_csdn_pc202004110007_result.json】文件
+2020-05-10 10:55:24,469 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_csdn_pc202004110007_result】表构建SQL成功！
+2020-05-10 10:55:24,470 scheJob.py[line:61] INFO 正在处理【./mapping/ssd_original_acfun_result.json】文件
+2020-05-10 10:55:24,489 calculateConfidence.py[line:262] INFO 【sgk_source.ssd_original_acfun_result】表构建SQL成功！
+2020-05-10 10:55:24,491 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_yiyi_pc202004010004_result.json】文件
+2020-05-10 10:55:24,506 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_yiyi_pc202004010004_result】表构建SQL成功！
+2020-05-10 10:55:24,508 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_hanting_pc202004110002_result.json】文件
+2020-05-10 10:55:24,523 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_hanting_pc202004110002_result】表构建SQL成功！
+2020-05-10 10:55:24,524 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_zhenaiwang_pc202003300042_result.json】文件
+2020-05-10 10:55:24,541 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300042_result】表构建SQL成功！
+2020-05-10 10:55:24,542 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300015_result.json】文件
+2020-05-10 10:55:24,559 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300015_result】表构建SQL成功！
+2020-05-10 10:55:24,561 scheJob.py[line:61] INFO 正在处理【./mapping/tianya_result.json】文件
+2020-05-10 10:55:24,576 calculateConfidence.py[line:262] INFO 【sgk_source.tianya_result】表构建SQL成功！
+2020-05-10 10:55:24,577 scheJob.py[line:61] INFO 正在处理【./mapping/ssd_163com_result.json】文件
+2020-05-10 10:55:24,592 calculateConfidence.py[line:262] INFO 【sgk_source.ssd_163com_result】表构建SQL成功！
+2020-05-10 10:55:24,594 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300022_result.json】文件
+2020-05-10 10:55:24,609 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300022_result】表构建SQL成功！
+2020-05-10 10:55:24,611 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300019_result.json】文件
+2020-05-10 10:55:24,626 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300019_result】表构建SQL成功！
+2020-05-10 10:55:24,628 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_renren_pc202004110009_result.json】文件
+2020-05-10 10:55:24,642 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_renren_pc202004110009_result】表构建SQL成功！
+2020-05-10 10:55:24,643 scheJob.py[line:66] INFO ==============================开始执行SQL文件==============================
+2020-05-10 10:55:24,645 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300023_result.sql】文件
+2020-05-10 10:55:30,755 scheJob.py[line:77] INFO 正在处理【./sql/ssd_12306account_result.sql】文件
+2020-05-10 10:55:30,757 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_zp_pc202003300027_result.sql】文件
+2020-05-10 10:55:30,760 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_zhenaiwang_pc202003300040_result.sql】文件
+2020-05-10 10:55:30,766 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300019_result.sql】文件
+2020-05-10 10:55:30,770 scheJob.py[line:77] INFO 正在处理【./sql/ssd_original_xiaomi_result.sql】文件
+2020-05-10 10:55:30,779 scheJob.py[line:77] INFO 正在处理【./sql/ssd_original_acfun_result.sql】文件
+2020-05-10 10:55:30,786 scheJob.py[line:77] INFO 正在处理【./sql/ssd_renren_result.sql】文件
+2020-05-10 10:55:30,790 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_92hacker_pc202004010010_result.sql】文件
+2020-05-10 10:55:30,794 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_hanting_pc202004110003_result.sql】文件
+2020-05-10 10:55:30,798 scheJob.py[line:77] INFO 正在处理【./sql/tianya_result.sql】文件
+2020-05-10 10:55:30,801 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_hanting_pc202004110004_result.sql】文件
+2020-05-10 10:55:30,802 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300021_result.sql】文件
+2020-05-10 10:55:30,803 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_163_pc202004110012_result.sql】文件
+2020-05-10 10:55:30,806 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300016_result.sql】文件
+2020-05-10 10:55:30,811 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_zhenaiwang_pc202003300042_result.sql】文件
+2020-05-10 10:55:30,813 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_acfun_pc202004110001_result.sql】文件
+2020-05-10 10:55:30,815 scheJob.py[line:77] INFO 正在处理【./sql/ssd_12306lianxiren_result.sql】文件
+2020-05-10 10:55:30,815 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300024_result.sql】文件
+2020-05-10 10:55:30,816 scheJob.py[line:77] INFO 正在处理【./sql/ssd_163com_result.sql】文件
+2020-05-10 10:55:30,816 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_163_pc202004110014_result.sql】文件
+2020-05-10 10:55:30,817 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_hanting_pc202004110002_result.sql】文件
+2020-05-10 10:55:30,817 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_zhenaiwang_pc202003300041_result.sql】文件
+2020-05-10 10:55:30,818 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300015_result.sql】文件
+2020-05-10 10:55:30,818 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300022_result.sql】文件
+2020-05-10 10:55:30,819 scheJob.py[line:77] INFO 正在处理【./sql/126wangyi_result.sql】文件
+2020-05-10 10:55:30,819 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_163_pc202004110011_result.sql】文件
+2020-05-10 10:55:30,819 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300018_result.sql】文件
+2020-05-10 10:55:30,820 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_csdn_pc202004110007_result.sql】文件
+2020-05-10 10:55:30,820 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_web_pc202004010012_result.sql】文件
+2020-05-10 10:55:30,821 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_renren_pc202004110009_result.sql】文件
+2020-05-10 10:55:30,821 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_zhenaiwang_pc202003300038_result.sql】文件
+2020-05-10 10:55:30,821 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_zhenaiwang_pc202004010008_result.sql】文件
+2020-05-10 10:55:30,822 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_yiyi_pc202004010004_result.sql】文件
+2020-05-10 10:55:30,822 scheJob.py[line:77] INFO 正在处理【./sql/ssd_csdn_result.sql】文件
+2020-05-10 10:55:30,822 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_shangpu_pc2020050500001_result.sql】文件
+2020-05-10 10:55:30,823 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_163_pc202004110013_result.sql】文件
+2020-05-10 10:55:30,823 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300020_result.sql】文件
+2020-05-10 10:55:30,823 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300017_result.sql】文件
+2020-05-10 10:55:30,823 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_taiwanhaiwaiwang_pc202003300030_result.sql】文件
+2020-05-10 10:55:30,824 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_hanting_pc202004110008_result.sql】文件
+2020-05-10 10:55:30,826 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300023_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,827 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_zp_pc202003300027_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,828 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300023_result.sql"
+2020-05-10 10:55:30,828 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_zhenaiwang_pc202003300040_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,829 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_zp_pc202003300027_result.sql"
+2020-05-10 10:55:30,830 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300019_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,831 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,832 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_original_xiaomi_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,833 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_original_acfun_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,835 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_renren_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,835 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_12306account_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,835 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_zhenaiwang_pc202003300040_result.sql"
+2020-05-10 10:55:30,836 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,836 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_92hacker_pc202004010010_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,837 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_hanting_pc202004110003_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,837 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300019_result.sql"
+2020-05-10 10:55:30,839 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/tianya_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,839 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_original_xiaomi_result.sql"
+2020-05-10 10:55:30,840 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_hanting_pc202004110004_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,840 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_original_acfun_result.sql"
+2020-05-10 10:55:30,841 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300021_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,841 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_renren_result.sql"
+2020-05-10 10:55:30,842 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_163_pc202004110012_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,843 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_12306account_result.sql"
+2020-05-10 10:55:30,844 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300016_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,844 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,846 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_zhenaiwang_pc202003300042_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,847 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_acfun_pc202004110001_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,848 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_12306lianxiren_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,849 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_92hacker_pc202004010010_result.sql"
+2020-05-10 10:55:30,850 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300024_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,850 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_hanting_pc202004110003_result.sql"
+2020-05-10 10:55:30,851 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,851 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_163com_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,852 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/tianya_result.sql"
+2020-05-10 10:55:30,853 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_163_pc202004110014_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,853 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,854 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_hanting_pc202004110002_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,855 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_zhenaiwang_pc202003300041_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,855 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_hanting_pc202004110004_result.sql"
+2020-05-10 10:55:30,855 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,856 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300015_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,857 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300022_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,857 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300021_result.sql"
+2020-05-10 10:55:30,857 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,858 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/126wangyi_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,859 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_163_pc202004110011_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,859 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_163_pc202004110012_result.sql"
+2020-05-10 10:55:30,859 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,860 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300016_result.sql"
+2020-05-10 10:55:30,860 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300018_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,861 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_csdn_pc202004110007_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,862 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_zhenaiwang_pc202003300042_result.sql"
+2020-05-10 10:55:30,863 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_web_pc202004010012_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,863 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_acfun_pc202004110001_result.sql"
+2020-05-10 10:55:30,865 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_renren_pc202004110009_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,865 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_12306lianxiren_result.sql"
+2020-05-10 10:55:30,866 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,867 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_zhenaiwang_pc202003300038_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,867 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300024_result.sql"
+2020-05-10 10:55:30,867 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,868 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_zhenaiwang_pc202004010008_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,869 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_yiyi_pc202004010004_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,870 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_163com_result.sql"
+2020-05-10 10:55:30,871 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_csdn_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,871 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,871 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_163_pc202004110014_result.sql"
+2020-05-10 10:55:30,872 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_shangpu_pc2020050500001_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,873 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_163_pc202004110013_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,874 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_hanting_pc202004110002_result.sql"
+2020-05-10 10:55:30,874 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300020_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,875 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_zhenaiwang_pc202003300041_result.sql"
+2020-05-10 10:55:30,875 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,875 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300017_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,877 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_taiwanhaiwaiwang_pc202003300030_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,878 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300015_result.sql"
+2020-05-10 10:55:30,878 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_hanting_pc202004110008_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:30,878 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300022_result.sql"
+2020-05-10 10:55:30,880 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,883 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/126wangyi_result.sql"
+2020-05-10 10:55:30,883 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_163_pc202004110011_result.sql"
+2020-05-10 10:55:30,884 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,885 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,885 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300018_result.sql"
+2020-05-10 10:55:30,886 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_csdn_pc202004110007_result.sql"
+2020-05-10 10:55:30,886 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,887 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_web_pc202004010012_result.sql"
+2020-05-10 10:55:30,887 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,889 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_renren_pc202004110009_result.sql"
+2020-05-10 10:55:30,890 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,894 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_zhenaiwang_pc202003300038_result.sql"
+2020-05-10 10:55:30,894 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,903 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_zhenaiwang_pc202004010008_result.sql"
+2020-05-10 10:55:30,904 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_yiyi_pc202004010004_result.sql"
+2020-05-10 10:55:30,904 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,905 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_csdn_result.sql"
+2020-05-10 10:55:30,908 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,908 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_shangpu_pc2020050500001_result.sql"
+2020-05-10 10:55:30,910 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_163_pc202004110013_result.sql"
+2020-05-10 10:55:30,915 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,919 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300020_result.sql"
+2020-05-10 10:55:30,928 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,935 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300017_result.sql"
+2020-05-10 10:55:30,937 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_taiwanhaiwaiwang_pc202003300030_result.sql"
+2020-05-10 10:55:30,938 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,939 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_hanting_pc202004110008_result.sql"
+2020-05-10 10:55:30,940 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,945 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,946 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,948 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,949 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,950 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,952 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,954 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,955 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,956 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,957 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,958 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,958 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,960 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,962 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,962 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:30,964 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:31,095 scheJob.py[line:93] INFO ==============================All Job Done!==============================
+2020-05-10 10:55:54,267 scheJob.py[line:46] INFO 1589079354.267094
+2020-05-10 10:55:54,268 scheJob.py[line:49] INFO ==============================开始构建mapping==============================
+2020-05-10 10:55:54,666 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.126wangyi_result】表...
+2020-05-10 10:55:54,669 calculateConfidence.py[line:130] INFO 【sgk_source.126wangyi_result】表构建mapping成功！
+2020-05-10 10:55:54,673 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_163_pc202004110011_result】表...
+2020-05-10 10:55:54,675 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_163_pc202004110011_result】表构建mapping成功！
+2020-05-10 10:55:54,679 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_163_pc202004110012_result】表...
+2020-05-10 10:55:54,682 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_163_pc202004110012_result】表构建mapping成功！
+2020-05-10 10:55:54,685 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_163_pc202004110013_result】表...
+2020-05-10 10:55:54,688 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_163_pc202004110013_result】表构建mapping成功！
+2020-05-10 10:55:54,691 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_163_pc202004110014_result】表...
+2020-05-10 10:55:54,694 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_163_pc202004110014_result】表构建mapping成功！
+2020-05-10 10:55:54,697 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300015_result】表...
+2020-05-10 10:55:54,700 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300015_result】表构建mapping成功！
+2020-05-10 10:55:54,704 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300016_result】表...
+2020-05-10 10:55:54,707 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300016_result】表构建mapping成功！
+2020-05-10 10:55:54,710 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300017_result】表...
+2020-05-10 10:55:54,713 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300017_result】表构建mapping成功！
+2020-05-10 10:55:54,716 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300018_result】表...
+2020-05-10 10:55:54,719 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300018_result】表构建mapping成功！
+2020-05-10 10:55:54,723 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300019_result】表...
+2020-05-10 10:55:54,726 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300019_result】表构建mapping成功！
+2020-05-10 10:55:54,729 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300020_result】表...
+2020-05-10 10:55:54,732 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300020_result】表构建mapping成功！
+2020-05-10 10:55:54,735 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300021_result】表...
+2020-05-10 10:55:54,738 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300021_result】表构建mapping成功！
+2020-05-10 10:55:54,742 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300022_result】表...
+2020-05-10 10:55:54,745 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300022_result】表构建mapping成功！
+2020-05-10 10:55:54,748 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300023_result】表...
+2020-05-10 10:55:54,751 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300023_result】表构建mapping成功！
+2020-05-10 10:55:54,754 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300024_result】表...
+2020-05-10 10:55:54,757 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300024_result】表构建mapping成功！
+2020-05-10 10:55:54,761 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_92hacker_pc202004010010_result】表...
+2020-05-10 10:55:54,764 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_92hacker_pc202004010010_result】表构建mapping成功！
+2020-05-10 10:55:54,769 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_acfun_pc202004110001_result】表...
+2020-05-10 10:55:54,772 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_acfun_pc202004110001_result】表构建mapping成功！
+2020-05-10 10:55:54,775 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_csdn_pc202004110007_result】表...
+2020-05-10 10:55:54,778 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_csdn_pc202004110007_result】表构建mapping成功！
+2020-05-10 10:55:54,784 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_hanting_pc202004110002_result】表...
+2020-05-10 10:55:54,787 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_hanting_pc202004110002_result】表构建mapping成功！
+2020-05-10 10:55:54,791 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_hanting_pc202004110003_result】表...
+2020-05-10 10:55:54,794 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_hanting_pc202004110003_result】表构建mapping成功！
+2020-05-10 10:55:54,799 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_hanting_pc202004110004_result】表...
+2020-05-10 10:55:54,802 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_hanting_pc202004110004_result】表构建mapping成功！
+2020-05-10 10:55:54,806 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_hanting_pc202004110008_result】表...
+2020-05-10 10:55:54,809 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_hanting_pc202004110008_result】表构建mapping成功！
+2020-05-10 10:55:54,813 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_renren_pc202004110009_result】表...
+2020-05-10 10:55:54,816 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_renren_pc202004110009_result】表构建mapping成功！
+2020-05-10 10:55:54,821 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_shangpu_pc2020050500001_result】表...
+2020-05-10 10:55:54,824 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_shangpu_pc2020050500001_result】表构建mapping成功！
+2020-05-10 10:55:54,829 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_taiwanhaiwaiwang_pc202003300030_result】表...
+2020-05-10 10:55:54,832 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_taiwanhaiwaiwang_pc202003300030_result】表构建mapping成功！
+2020-05-10 10:55:54,836 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_web_pc202004010012_result】表...
+2020-05-10 10:55:54,839 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_web_pc202004010012_result】表构建mapping成功！
+2020-05-10 10:55:54,843 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_yiyi_pc202004010004_result】表...
+2020-05-10 10:55:54,846 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_yiyi_pc202004010004_result】表构建mapping成功！
+2020-05-10 10:55:54,850 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_zhenaiwang_pc202003300038_result】表...
+2020-05-10 10:55:54,853 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300038_result】表构建mapping成功！
+2020-05-10 10:55:54,856 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_zhenaiwang_pc202003300040_result】表...
+2020-05-10 10:55:54,859 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300040_result】表构建mapping成功！
+2020-05-10 10:55:54,862 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_zhenaiwang_pc202003300041_result】表...
+2020-05-10 10:55:54,866 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300041_result】表构建mapping成功！
+2020-05-10 10:55:54,871 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_zhenaiwang_pc202003300042_result】表...
+2020-05-10 10:55:54,876 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300042_result】表构建mapping成功！
+2020-05-10 10:55:54,884 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_zhenaiwang_pc202004010008_result】表...
+2020-05-10 10:55:54,899 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_zhenaiwang_pc202004010008_result】表构建mapping成功！
+2020-05-10 10:55:54,914 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.s_ssd_zp_pc202003300027_result】表...
+2020-05-10 10:55:54,930 calculateConfidence.py[line:130] INFO 【sgk_source.s_ssd_zp_pc202003300027_result】表构建mapping成功！
+2020-05-10 10:55:54,944 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.ssd_12306account_result】表...
+2020-05-10 10:55:54,964 calculateConfidence.py[line:130] INFO 【sgk_source.ssd_12306account_result】表构建mapping成功！
+2020-05-10 10:55:54,981 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.ssd_12306lianxiren_result】表...
+2020-05-10 10:55:54,993 calculateConfidence.py[line:130] INFO 【sgk_source.ssd_12306lianxiren_result】表构建mapping成功！
+2020-05-10 10:55:54,997 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.ssd_163com_result】表...
+2020-05-10 10:55:55,004 calculateConfidence.py[line:130] INFO 【sgk_source.ssd_163com_result】表构建mapping成功！
+2020-05-10 10:55:55,013 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.ssd_csdn_result】表...
+2020-05-10 10:55:55,018 calculateConfidence.py[line:130] INFO 【sgk_source.ssd_csdn_result】表构建mapping成功！
+2020-05-10 10:55:55,022 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.ssd_original_acfun_result】表...
+2020-05-10 10:55:55,026 calculateConfidence.py[line:130] INFO 【sgk_source.ssd_original_acfun_result】表构建mapping成功！
+2020-05-10 10:55:55,031 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.ssd_original_xiaomi_result】表...
+2020-05-10 10:55:55,034 calculateConfidence.py[line:130] INFO 【sgk_source.ssd_original_xiaomi_result】表构建mapping成功！
+2020-05-10 10:55:55,037 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.ssd_renren_result】表...
+2020-05-10 10:55:55,041 calculateConfidence.py[line:130] INFO 【sgk_source.ssd_renren_result】表构建mapping成功！
+2020-05-10 10:55:55,044 calculateConfidence.py[line:118] INFO 正在处理【sgk_source.tianya_result】表...
+2020-05-10 10:55:55,047 calculateConfidence.py[line:130] INFO 【sgk_source.tianya_result】表构建mapping成功！
+2020-05-10 10:55:55,048 scheJob.py[line:54] INFO ==============================开始构建SQL==============================
+2020-05-10 10:55:55,050 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_zp_pc202003300027_result.json】文件
+2020-05-10 10:55:55,068 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_zp_pc202003300027_result】表构建SQL成功！
+2020-05-10 10:55:55,070 scheJob.py[line:61] INFO 正在处理【./mapping/ssd_12306lianxiren_result.json】文件
+2020-05-10 10:55:55,097 calculateConfidence.py[line:262] INFO 【sgk_source.ssd_12306lianxiren_result】表构建SQL成功！
+2020-05-10 10:55:55,100 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300017_result.json】文件
+2020-05-10 10:55:55,151 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300017_result】表构建SQL成功！
+2020-05-10 10:55:55,158 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_zhenaiwang_pc202003300040_result.json】文件
+2020-05-10 10:55:55,202 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300040_result】表构建SQL成功！
+2020-05-10 10:55:55,204 scheJob.py[line:61] INFO 正在处理【./mapping/ssd_original_xiaomi_result.json】文件
+2020-05-10 10:55:55,221 calculateConfidence.py[line:262] INFO 【sgk_source.ssd_original_xiaomi_result】表构建SQL成功！
+2020-05-10 10:55:55,223 scheJob.py[line:61] INFO 正在处理【./mapping/ssd_renren_result.json】文件
+2020-05-10 10:55:55,238 calculateConfidence.py[line:262] INFO 【sgk_source.ssd_renren_result】表构建SQL成功！
+2020-05-10 10:55:55,240 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300020_result.json】文件
+2020-05-10 10:55:55,255 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300020_result】表构建SQL成功！
+2020-05-10 10:55:55,257 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_163_pc202004110012_result.json】文件
+2020-05-10 10:55:55,273 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_163_pc202004110012_result】表构建SQL成功！
+2020-05-10 10:55:55,275 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_92hacker_pc202004010010_result.json】文件
+2020-05-10 10:55:55,290 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_92hacker_pc202004010010_result】表构建SQL成功！
+2020-05-10 10:55:55,292 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300018_result.json】文件
+2020-05-10 10:55:55,314 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300018_result】表构建SQL成功！
+2020-05-10 10:55:55,323 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_163_pc202004110011_result.json】文件
+2020-05-10 10:55:55,386 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_163_pc202004110011_result】表构建SQL成功！
+2020-05-10 10:55:55,392 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_web_pc202004010012_result.json】文件
+2020-05-10 10:55:55,428 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_web_pc202004010012_result】表构建SQL成功！
+2020-05-10 10:55:55,430 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300023_result.json】文件
+2020-05-10 10:55:55,447 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300023_result】表构建SQL成功！
+2020-05-10 10:55:55,449 scheJob.py[line:61] INFO 正在处理【./mapping/ssd_csdn_result.json】文件
+2020-05-10 10:55:55,472 calculateConfidence.py[line:262] INFO 【sgk_source.ssd_csdn_result】表构建SQL成功！
+2020-05-10 10:55:55,474 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_hanting_pc202004110003_result.json】文件
+2020-05-10 10:55:55,490 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_hanting_pc202004110003_result】表构建SQL成功！
+2020-05-10 10:55:55,492 scheJob.py[line:61] INFO 正在处理【./mapping/126wangyi_result.json】文件
+2020-05-10 10:55:55,507 calculateConfidence.py[line:262] INFO 【sgk_source.126wangyi_result】表构建SQL成功！
+2020-05-10 10:55:55,509 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_163_pc202004110014_result.json】文件
+2020-05-10 10:55:55,536 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_163_pc202004110014_result】表构建SQL成功！
+2020-05-10 10:55:55,539 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_taiwanhaiwaiwang_pc202003300030_result.json】文件
+2020-05-10 10:55:55,593 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_taiwanhaiwaiwang_pc202003300030_result】表构建SQL成功！
+2020-05-10 10:55:55,601 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_hanting_pc202004110004_result.json】文件
+2020-05-10 10:55:55,636 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_hanting_pc202004110004_result】表构建SQL成功！
+2020-05-10 10:55:55,638 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_shangpu_pc2020050500001_result.json】文件
+2020-05-10 10:55:55,655 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_shangpu_pc2020050500001_result】表构建SQL成功！
+2020-05-10 10:55:55,658 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_acfun_pc202004110001_result.json】文件
+2020-05-10 10:55:55,678 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_acfun_pc202004110001_result】表构建SQL成功！
+2020-05-10 10:55:55,680 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_163_pc202004110013_result.json】文件
+2020-05-10 10:55:55,703 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_163_pc202004110013_result】表构建SQL成功！
+2020-05-10 10:55:55,705 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_zhenaiwang_pc202004010008_result.json】文件
+2020-05-10 10:55:55,721 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_zhenaiwang_pc202004010008_result】表构建SQL成功！
+2020-05-10 10:55:55,723 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300021_result.json】文件
+2020-05-10 10:55:55,740 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300021_result】表构建SQL成功！
+2020-05-10 10:55:55,742 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300024_result.json】文件
+2020-05-10 10:55:55,796 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300024_result】表构建SQL成功！
+2020-05-10 10:55:55,806 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_hanting_pc202004110008_result.json】文件
+2020-05-10 10:55:55,869 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_hanting_pc202004110008_result】表构建SQL成功！
+2020-05-10 10:55:55,872 scheJob.py[line:61] INFO 正在处理【./mapping/ssd_12306account_result.json】文件
+2020-05-10 10:55:55,898 calculateConfidence.py[line:262] INFO 【sgk_source.ssd_12306account_result】表构建SQL成功！
+2020-05-10 10:55:55,901 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_zhenaiwang_pc202003300041_result.json】文件
+2020-05-10 10:55:55,928 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300041_result】表构建SQL成功！
+2020-05-10 10:55:55,931 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300016_result.json】文件
+2020-05-10 10:55:55,974 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300016_result】表构建SQL成功！
+2020-05-10 10:55:55,983 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_zhenaiwang_pc202003300038_result.json】文件
+2020-05-10 10:55:56,076 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300038_result】表构建SQL成功！
+2020-05-10 10:55:56,080 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_csdn_pc202004110007_result.json】文件
+2020-05-10 10:55:56,106 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_csdn_pc202004110007_result】表构建SQL成功！
+2020-05-10 10:55:56,109 scheJob.py[line:61] INFO 正在处理【./mapping/ssd_original_acfun_result.json】文件
+2020-05-10 10:55:56,136 calculateConfidence.py[line:262] INFO 【sgk_source.ssd_original_acfun_result】表构建SQL成功！
+2020-05-10 10:55:56,139 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_yiyi_pc202004010004_result.json】文件
+2020-05-10 10:55:56,168 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_yiyi_pc202004010004_result】表构建SQL成功！
+2020-05-10 10:55:56,171 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_hanting_pc202004110002_result.json】文件
+2020-05-10 10:55:56,216 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_hanting_pc202004110002_result】表构建SQL成功！
+2020-05-10 10:55:56,222 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_zhenaiwang_pc202003300042_result.json】文件
+2020-05-10 10:55:56,298 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300042_result】表构建SQL成功！
+2020-05-10 10:55:56,303 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300015_result.json】文件
+2020-05-10 10:55:56,323 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300015_result】表构建SQL成功！
+2020-05-10 10:55:56,325 scheJob.py[line:61] INFO 正在处理【./mapping/tianya_result.json】文件
+2020-05-10 10:55:56,343 calculateConfidence.py[line:262] INFO 【sgk_source.tianya_result】表构建SQL成功！
+2020-05-10 10:55:56,346 scheJob.py[line:61] INFO 正在处理【./mapping/ssd_163com_result.json】文件
+2020-05-10 10:55:56,365 calculateConfidence.py[line:262] INFO 【sgk_source.ssd_163com_result】表构建SQL成功！
+2020-05-10 10:55:56,367 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300022_result.json】文件
+2020-05-10 10:55:56,382 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300022_result】表构建SQL成功！
+2020-05-10 10:55:56,384 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_52fangdichan_pc202003300019_result.json】文件
+2020-05-10 10:55:56,400 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300019_result】表构建SQL成功！
+2020-05-10 10:55:56,402 scheJob.py[line:61] INFO 正在处理【./mapping/s_ssd_renren_pc202004110009_result.json】文件
+2020-05-10 10:55:56,417 calculateConfidence.py[line:262] INFO 【sgk_source.s_ssd_renren_pc202004110009_result】表构建SQL成功！
+2020-05-10 10:55:56,418 scheJob.py[line:66] INFO ==============================开始执行SQL文件==============================
+2020-05-10 10:55:56,420 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300023_result.sql】文件
+2020-05-10 10:55:56,421 scheJob.py[line:77] INFO 正在处理【./sql/ssd_12306account_result.sql】文件
+2020-05-10 10:55:56,422 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_zp_pc202003300027_result.sql】文件
+2020-05-10 10:55:56,422 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_zhenaiwang_pc202003300040_result.sql】文件
+2020-05-10 10:55:56,423 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300019_result.sql】文件
+2020-05-10 10:55:56,424 scheJob.py[line:77] INFO 正在处理【./sql/ssd_original_xiaomi_result.sql】文件
+2020-05-10 10:55:56,424 scheJob.py[line:77] INFO 正在处理【./sql/ssd_original_acfun_result.sql】文件
+2020-05-10 10:55:56,425 scheJob.py[line:77] INFO 正在处理【./sql/ssd_renren_result.sql】文件
+2020-05-10 10:55:56,426 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_92hacker_pc202004010010_result.sql】文件
+2020-05-10 10:55:56,426 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_hanting_pc202004110003_result.sql】文件
+2020-05-10 10:55:56,431 scheJob.py[line:77] INFO 正在处理【./sql/tianya_result.sql】文件
+2020-05-10 10:55:56,433 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_hanting_pc202004110004_result.sql】文件
+2020-05-10 10:55:56,434 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300021_result.sql】文件
+2020-05-10 10:55:56,434 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_163_pc202004110012_result.sql】文件
+2020-05-10 10:55:56,435 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300016_result.sql】文件
+2020-05-10 10:55:56,437 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_zhenaiwang_pc202003300042_result.sql】文件
+2020-05-10 10:55:56,438 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_acfun_pc202004110001_result.sql】文件
+2020-05-10 10:55:56,438 scheJob.py[line:77] INFO 正在处理【./sql/ssd_12306lianxiren_result.sql】文件
+2020-05-10 10:55:56,439 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300024_result.sql】文件
+2020-05-10 10:55:56,439 scheJob.py[line:77] INFO 正在处理【./sql/ssd_163com_result.sql】文件
+2020-05-10 10:55:56,439 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_163_pc202004110014_result.sql】文件
+2020-05-10 10:55:56,440 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_hanting_pc202004110002_result.sql】文件
+2020-05-10 10:55:56,440 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_zhenaiwang_pc202003300041_result.sql】文件
+2020-05-10 10:55:56,440 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300015_result.sql】文件
+2020-05-10 10:55:56,441 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300022_result.sql】文件
+2020-05-10 10:55:56,441 scheJob.py[line:77] INFO 正在处理【./sql/126wangyi_result.sql】文件
+2020-05-10 10:55:56,442 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_163_pc202004110011_result.sql】文件
+2020-05-10 10:55:56,442 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300018_result.sql】文件
+2020-05-10 10:55:56,442 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_csdn_pc202004110007_result.sql】文件
+2020-05-10 10:55:56,443 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_web_pc202004010012_result.sql】文件
+2020-05-10 10:55:56,443 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_renren_pc202004110009_result.sql】文件
+2020-05-10 10:55:56,443 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_zhenaiwang_pc202003300038_result.sql】文件
+2020-05-10 10:55:56,444 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_zhenaiwang_pc202004010008_result.sql】文件
+2020-05-10 10:55:56,444 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_yiyi_pc202004010004_result.sql】文件
+2020-05-10 10:55:56,444 scheJob.py[line:77] INFO 正在处理【./sql/ssd_csdn_result.sql】文件
+2020-05-10 10:55:56,445 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_shangpu_pc2020050500001_result.sql】文件
+2020-05-10 10:55:56,445 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_163_pc202004110013_result.sql】文件
+2020-05-10 10:55:56,445 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300020_result.sql】文件
+2020-05-10 10:55:56,446 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300017_result.sql】文件
+2020-05-10 10:55:56,446 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_taiwanhaiwaiwang_pc202003300030_result.sql】文件
+2020-05-10 10:55:56,446 scheJob.py[line:77] INFO 正在处理【./sql/s_ssd_hanting_pc202004110008_result.sql】文件
+2020-05-10 10:55:56,458 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_12306account_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,459 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_original_acfun_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,460 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_12306account_result.sql"
+2020-05-10 10:55:56,461 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_original_acfun_result.sql"
+2020-05-10 10:55:56,463 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,467 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300019_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,468 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300023_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,469 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_renren_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,469 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_zhenaiwang_pc202003300040_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,472 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_zp_pc202003300027_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,476 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,477 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_original_xiaomi_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,482 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_92hacker_pc202004010010_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,486 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300019_result.sql"
+2020-05-10 10:55:56,490 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300023_result.sql"
+2020-05-10 10:55:56,491 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_renren_result.sql"
+2020-05-10 10:55:56,492 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_zhenaiwang_pc202003300040_result.sql"
+2020-05-10 10:55:56,493 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_zp_pc202003300027_result.sql"
+2020-05-10 10:55:56,494 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_hanting_pc202004110003_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,500 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_original_xiaomi_result.sql"
+2020-05-10 10:55:56,502 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_92hacker_pc202004010010_result.sql"
+2020-05-10 10:55:56,503 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,508 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/tianya_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,508 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,511 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,513 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,516 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_hanting_pc202004110004_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,517 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,521 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_hanting_pc202004110003_result.sql"
+2020-05-10 10:55:56,522 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,525 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300021_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,527 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,529 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_163_pc202004110012_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,530 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300016_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,530 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/tianya_result.sql"
+2020-05-10 10:55:56,531 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_zhenaiwang_pc202003300042_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,538 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_acfun_pc202004110001_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,538 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_hanting_pc202004110004_result.sql"
+2020-05-10 10:55:56,540 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_12306lianxiren_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,540 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,544 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300024_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,547 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_163com_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,547 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300021_result.sql"
+2020-05-10 10:55:56,550 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_163_pc202004110014_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,554 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_hanting_pc202004110002_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,554 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_163_pc202004110012_result.sql"
+2020-05-10 10:55:56,555 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300016_result.sql"
+2020-05-10 10:55:56,557 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_zhenaiwang_pc202003300041_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,559 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,560 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_zhenaiwang_pc202003300042_result.sql"
+2020-05-10 10:55:56,560 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300015_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,562 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300022_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,562 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_acfun_pc202004110001_result.sql"
+2020-05-10 10:55:56,563 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/126wangyi_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,564 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,564 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_12306lianxiren_result.sql"
+2020-05-10 10:55:56,566 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_163_pc202004110011_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,567 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300018_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,568 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300024_result.sql"
+2020-05-10 10:55:56,569 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_csdn_pc202004110007_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,569 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_163com_result.sql"
+2020-05-10 10:55:56,569 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,570 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_web_pc202004010012_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,571 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_163_pc202004110014_result.sql"
+2020-05-10 10:55:56,572 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_renren_pc202004110009_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,572 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_hanting_pc202004110002_result.sql"
+2020-05-10 10:55:56,573 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,574 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,574 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_zhenaiwang_pc202003300041_result.sql"
+2020-05-10 10:55:56,577 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_zhenaiwang_pc202003300038_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,580 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,584 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300015_result.sql"
+2020-05-10 10:55:56,585 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_zhenaiwang_pc202004010008_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,592 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300022_result.sql"
+2020-05-10 10:55:56,592 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,593 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/126wangyi_result.sql"
+2020-05-10 10:55:56,593 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_yiyi_pc202004010004_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,595 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_csdn_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,595 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,596 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_shangpu_pc2020050500001_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,596 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_163_pc202004110011_result.sql"
+2020-05-10 10:55:56,597 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_163_pc202004110013_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,597 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300018_result.sql"
+2020-05-10 10:55:56,599 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300020_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,599 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,600 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_csdn_pc202004110007_result.sql"
+2020-05-10 10:55:56,601 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300017_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,601 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,602 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_taiwanhaiwaiwang_pc202003300030_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,603 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_web_pc202004010012_result.sql"
+2020-05-10 10:55:56,603 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_hanting_pc202004110008_result.sql"】执行成功，退出进程!****]
+2020-05-10 10:55:56,604 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,607 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_renren_pc202004110009_result.sql"
+2020-05-10 10:55:56,607 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,610 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,610 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_zhenaiwang_pc202003300038_result.sql"
+2020-05-10 10:55:56,611 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,611 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_zhenaiwang_pc202004010008_result.sql"
+2020-05-10 10:55:56,612 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,613 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,614 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_yiyi_pc202004010004_result.sql"
+2020-05-10 10:55:56,615 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_csdn_result.sql"
+2020-05-10 10:55:56,616 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_shangpu_pc2020050500001_result.sql"
+2020-05-10 10:55:56,616 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,616 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_163_pc202004110013_result.sql"
+2020-05-10 10:55:56,617 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,618 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300020_result.sql"
+2020-05-10 10:55:56,618 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,619 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300017_result.sql"
+2020-05-10 10:55:56,619 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_taiwanhaiwaiwang_pc202003300030_result.sql"
+2020-05-10 10:55:56,620 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,621 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_hanting_pc202004110008_result.sql"
+2020-05-10 10:55:56,622 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,624 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,625 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,626 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,627 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,627 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,629 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,629 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,631 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,632 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 10:55:56,632 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:04:42,982 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.126wangyi_result】表...
+2020-05-10 22:04:42,986 calculateConfidence.py[line:136] INFO 【sgk_source.126wangyi_result】表构建mapping成功！
+2020-05-10 22:04:42,990 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_163_pc202004110011_result】表...
+2020-05-10 22:04:42,992 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_163_pc202004110011_result】表构建mapping成功！
+2020-05-10 22:04:42,994 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_163_pc202004110012_result】表...
+2020-05-10 22:04:42,997 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_163_pc202004110012_result】表构建mapping成功！
+2020-05-10 22:04:42,998 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_163_pc202004110013_result】表...
+2020-05-10 22:04:43,001 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_163_pc202004110013_result】表构建mapping成功！
+2020-05-10 22:04:43,003 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_163_pc202004110014_result】表...
+2020-05-10 22:04:43,005 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_163_pc202004110014_result】表构建mapping成功！
+2020-05-10 22:04:43,007 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300015_result】表...
+2020-05-10 22:04:43,009 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300015_result】表构建mapping成功！
+2020-05-10 22:04:43,011 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300016_result】表...
+2020-05-10 22:04:43,013 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300016_result】表构建mapping成功！
+2020-05-10 22:04:43,015 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300017_result】表...
+2020-05-10 22:04:43,017 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300017_result】表构建mapping成功！
+2020-05-10 22:04:43,021 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300018_result】表...
+2020-05-10 22:04:43,024 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300018_result】表构建mapping成功！
+2020-05-10 22:04:43,026 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300019_result】表...
+2020-05-10 22:04:43,028 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300019_result】表构建mapping成功！
+2020-05-10 22:04:43,030 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300020_result】表...
+2020-05-10 22:04:43,033 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300020_result】表构建mapping成功！
+2020-05-10 22:04:43,034 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300021_result】表...
+2020-05-10 22:04:43,036 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300021_result】表构建mapping成功！
+2020-05-10 22:04:43,038 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300022_result】表...
+2020-05-10 22:04:43,040 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300022_result】表构建mapping成功！
+2020-05-10 22:04:43,042 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300023_result】表...
+2020-05-10 22:04:43,045 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300023_result】表构建mapping成功！
+2020-05-10 22:04:43,047 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_52fangdichan_pc202003300024_result】表...
+2020-05-10 22:04:43,050 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300024_result】表构建mapping成功！
+2020-05-10 22:04:43,051 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_92hacker_pc202004010010_result】表...
+2020-05-10 22:04:43,054 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_92hacker_pc202004010010_result】表构建mapping成功！
+2020-05-10 22:04:43,055 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_acfun_pc202004110001_result】表...
+2020-05-10 22:04:43,058 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_acfun_pc202004110001_result】表构建mapping成功！
+2020-05-10 22:04:43,060 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_csdn_pc202004110007_result】表...
+2020-05-10 22:04:43,063 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_csdn_pc202004110007_result】表构建mapping成功！
+2020-05-10 22:04:43,066 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_hanting_pc202004110002_result】表...
+2020-05-10 22:04:43,069 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_hanting_pc202004110002_result】表构建mapping成功！
+2020-05-10 22:04:43,071 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_hanting_pc202004110003_result】表...
+2020-05-10 22:04:43,073 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_hanting_pc202004110003_result】表构建mapping成功！
+2020-05-10 22:04:43,076 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_hanting_pc202004110004_result】表...
+2020-05-10 22:04:43,079 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_hanting_pc202004110004_result】表构建mapping成功！
+2020-05-10 22:04:43,081 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_hanting_pc202004110008_result】表...
+2020-05-10 22:04:43,083 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_hanting_pc202004110008_result】表构建mapping成功！
+2020-05-10 22:04:43,086 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_renren_pc202004110009_result】表...
+2020-05-10 22:04:43,088 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_renren_pc202004110009_result】表构建mapping成功！
+2020-05-10 22:04:43,090 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_shangpu_pc2020050500001_result】表...
+2020-05-10 22:04:43,093 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_shangpu_pc2020050500001_result】表构建mapping成功！
+2020-05-10 22:04:43,095 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_taiwanhaiwaiwang_pc202003300030_result】表...
+2020-05-10 22:04:43,097 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_taiwanhaiwaiwang_pc202003300030_result】表构建mapping成功！
+2020-05-10 22:04:43,100 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_web_pc202004010012_result】表...
+2020-05-10 22:04:43,102 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_web_pc202004010012_result】表构建mapping成功！
+2020-05-10 22:04:43,105 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_yiyi_pc202004010004_result】表...
+2020-05-10 22:04:43,108 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_yiyi_pc202004010004_result】表构建mapping成功！
+2020-05-10 22:04:43,111 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_zhenaiwang_pc202003300038_result】表...
+2020-05-10 22:04:43,113 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300038_result】表构建mapping成功！
+2020-05-10 22:04:43,115 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_zhenaiwang_pc202003300040_result】表...
+2020-05-10 22:04:43,117 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300040_result】表构建mapping成功！
+2020-05-10 22:04:43,119 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_zhenaiwang_pc202003300041_result】表...
+2020-05-10 22:04:43,122 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300041_result】表构建mapping成功！
+2020-05-10 22:04:43,124 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_zhenaiwang_pc202003300042_result】表...
+2020-05-10 22:04:43,126 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300042_result】表构建mapping成功！
+2020-05-10 22:04:43,128 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_zhenaiwang_pc202004010008_result】表...
+2020-05-10 22:04:43,131 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_zhenaiwang_pc202004010008_result】表构建mapping成功！
+2020-05-10 22:04:43,134 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.s_ssd_zp_pc202003300027_result】表...
+2020-05-10 22:04:43,136 calculateConfidence.py[line:136] INFO 【sgk_source.s_ssd_zp_pc202003300027_result】表构建mapping成功！
+2020-05-10 22:04:43,138 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.ssd_12306account_result】表...
+2020-05-10 22:04:43,140 calculateConfidence.py[line:136] INFO 【sgk_source.ssd_12306account_result】表构建mapping成功！
+2020-05-10 22:04:43,142 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.ssd_12306lianxiren_result】表...
+2020-05-10 22:04:43,145 calculateConfidence.py[line:136] INFO 【sgk_source.ssd_12306lianxiren_result】表构建mapping成功！
+2020-05-10 22:04:43,147 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.ssd_163com_result】表...
+2020-05-10 22:04:43,150 calculateConfidence.py[line:136] INFO 【sgk_source.ssd_163com_result】表构建mapping成功！
+2020-05-10 22:04:43,152 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.ssd_csdn_result】表...
+2020-05-10 22:04:43,155 calculateConfidence.py[line:136] INFO 【sgk_source.ssd_csdn_result】表构建mapping成功！
+2020-05-10 22:04:43,157 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.ssd_original_acfun_result】表...
+2020-05-10 22:04:43,159 calculateConfidence.py[line:136] INFO 【sgk_source.ssd_original_acfun_result】表构建mapping成功！
+2020-05-10 22:04:43,161 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.ssd_original_xiaomi_result】表...
+2020-05-10 22:04:43,163 calculateConfidence.py[line:136] INFO 【sgk_source.ssd_original_xiaomi_result】表构建mapping成功！
+2020-05-10 22:04:43,165 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.ssd_renren_result】表...
+2020-05-10 22:04:43,167 calculateConfidence.py[line:136] INFO 【sgk_source.ssd_renren_result】表构建mapping成功！
+2020-05-10 22:04:43,170 calculateConfidence.py[line:124] INFO 正在处理【sgk_source.tianya_result】表...
+2020-05-10 22:04:43,172 calculateConfidence.py[line:136] INFO 【sgk_source.tianya_result】表构建mapping成功！
+2020-05-10 22:07:35,537 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_zp_pc202003300027_result】表构建SQL成功！
+2020-05-10 22:07:43,732 calculateConfidence.py[line:268] INFO 【sgk_source.ssd_12306lianxiren_result】表构建SQL成功！
+2020-05-10 22:07:43,744 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300017_result】表构建SQL成功！
+2020-05-10 22:07:43,758 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300040_result】表构建SQL成功！
+2020-05-10 22:07:43,775 calculateConfidence.py[line:268] INFO 【sgk_source.ssd_original_xiaomi_result】表构建SQL成功！
+2020-05-10 22:07:43,790 calculateConfidence.py[line:268] INFO 【sgk_source.ssd_renren_result】表构建SQL成功！
+2020-05-10 22:07:43,805 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300020_result】表构建SQL成功！
+2020-05-10 22:07:43,825 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_163_pc202004110012_result】表构建SQL成功！
+2020-05-10 22:07:43,847 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_92hacker_pc202004010010_result】表构建SQL成功！
+2020-05-10 22:07:43,862 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300018_result】表构建SQL成功！
+2020-05-10 22:07:43,888 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_163_pc202004110011_result】表构建SQL成功！
+2020-05-10 22:07:43,906 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_web_pc202004010012_result】表构建SQL成功！
+2020-05-10 22:07:43,920 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300023_result】表构建SQL成功！
+2020-05-10 22:07:43,939 calculateConfidence.py[line:268] INFO 【sgk_source.ssd_csdn_result】表构建SQL成功！
+2020-05-10 22:07:43,996 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_hanting_pc202004110003_result】表构建SQL成功！
+2020-05-10 22:07:44,050 calculateConfidence.py[line:268] INFO 【sgk_source.126wangyi_result】表构建SQL成功！
+2020-05-10 22:07:44,064 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_163_pc202004110014_result】表构建SQL成功！
+2020-05-10 22:07:44,076 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_taiwanhaiwaiwang_pc202003300030_result】表构建SQL成功！
+2020-05-10 22:07:44,092 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_hanting_pc202004110004_result】表构建SQL成功！
+2020-05-10 22:07:44,108 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_shangpu_pc2020050500001_result】表构建SQL成功！
+2020-05-10 22:07:44,126 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_acfun_pc202004110001_result】表构建SQL成功！
+2020-05-10 22:07:44,142 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_163_pc202004110013_result】表构建SQL成功！
+2020-05-10 22:07:44,198 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_zhenaiwang_pc202004010008_result】表构建SQL成功！
+2020-05-10 22:07:44,250 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300021_result】表构建SQL成功！
+2020-05-10 22:07:44,275 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300024_result】表构建SQL成功！
+2020-05-10 22:07:44,289 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_hanting_pc202004110008_result】表构建SQL成功！
+2020-05-10 22:07:44,301 calculateConfidence.py[line:268] INFO 【sgk_source.ssd_12306account_result】表构建SQL成功！
+2020-05-10 22:07:44,320 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300041_result】表构建SQL成功！
+2020-05-10 22:07:44,333 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300016_result】表构建SQL成功！
+2020-05-10 22:07:44,354 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300038_result】表构建SQL成功！
+2020-05-10 22:07:44,411 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_csdn_pc202004110007_result】表构建SQL成功！
+2020-05-10 22:07:44,466 calculateConfidence.py[line:268] INFO 【sgk_source.ssd_original_acfun_result】表构建SQL成功！
+2020-05-10 22:07:44,488 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_yiyi_pc202004010004_result】表构建SQL成功！
+2020-05-10 22:07:44,508 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_hanting_pc202004110002_result】表构建SQL成功！
+2020-05-10 22:07:44,527 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_zhenaiwang_pc202003300042_result】表构建SQL成功！
+2020-05-10 22:07:44,542 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300015_result】表构建SQL成功！
+2020-05-10 22:07:44,558 calculateConfidence.py[line:268] INFO 【sgk_source.tianya_result】表构建SQL成功！
+2020-05-10 22:07:44,591 calculateConfidence.py[line:268] INFO 【sgk_source.ssd_163com_result】表构建SQL成功！
+2020-05-10 22:07:44,648 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300022_result】表构建SQL成功！
+2020-05-10 22:07:44,687 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_52fangdichan_pc202003300019_result】表构建SQL成功！
+2020-05-10 22:07:44,702 calculateConfidence.py[line:268] INFO 【sgk_source.s_ssd_renren_pc202004110009_result】表构建SQL成功！
+2020-05-10 22:09:44,851 scheJob.py[line:43] INFO 1589119784.851777
+2020-05-10 22:09:44,852 scheJob.py[line:46] INFO ==============================开始构建mapping==============================
+2020-05-10 22:09:45,125 scheJob.py[line:51] INFO ==============================开始构建SQL==============================
+2020-05-10 22:09:45,125 scheJob.py[line:63] INFO ==============================开始执行SQL文件==============================
+2020-05-10 22:09:45,126 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300023_result.sql】文件
+2020-05-10 22:09:45,127 scheJob.py[line:74] INFO 正在处理【./sql/ssd_12306account_result.sql】文件
+2020-05-10 22:09:45,127 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_zp_pc202003300027_result.sql】文件
+2020-05-10 22:09:45,127 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_zhenaiwang_pc202003300040_result.sql】文件
+2020-05-10 22:09:45,127 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300019_result.sql】文件
+2020-05-10 22:09:45,127 scheJob.py[line:74] INFO 正在处理【./sql/ssd_original_xiaomi_result.sql】文件
+2020-05-10 22:09:45,128 scheJob.py[line:74] INFO 正在处理【./sql/ssd_original_acfun_result.sql】文件
+2020-05-10 22:09:45,128 scheJob.py[line:74] INFO 正在处理【./sql/ssd_renren_result.sql】文件
+2020-05-10 22:09:45,128 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_92hacker_pc202004010010_result.sql】文件
+2020-05-10 22:09:45,128 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_hanting_pc202004110003_result.sql】文件
+2020-05-10 22:09:45,129 scheJob.py[line:74] INFO 正在处理【./sql/tianya_result.sql】文件
+2020-05-10 22:09:45,129 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_hanting_pc202004110004_result.sql】文件
+2020-05-10 22:09:45,129 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300021_result.sql】文件
+2020-05-10 22:09:45,129 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_163_pc202004110012_result.sql】文件
+2020-05-10 22:09:45,129 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300016_result.sql】文件
+2020-05-10 22:09:45,130 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_zhenaiwang_pc202003300042_result.sql】文件
+2020-05-10 22:09:45,130 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_acfun_pc202004110001_result.sql】文件
+2020-05-10 22:09:45,130 scheJob.py[line:74] INFO 正在处理【./sql/ssd_12306lianxiren_result.sql】文件
+2020-05-10 22:09:45,130 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300024_result.sql】文件
+2020-05-10 22:09:45,130 scheJob.py[line:74] INFO 正在处理【./sql/ssd_163com_result.sql】文件
+2020-05-10 22:09:45,130 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_163_pc202004110014_result.sql】文件
+2020-05-10 22:09:45,131 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_hanting_pc202004110002_result.sql】文件
+2020-05-10 22:09:45,131 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_zhenaiwang_pc202003300041_result.sql】文件
+2020-05-10 22:09:45,131 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300015_result.sql】文件
+2020-05-10 22:09:45,131 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300022_result.sql】文件
+2020-05-10 22:09:45,131 scheJob.py[line:74] INFO 正在处理【./sql/126wangyi_result.sql】文件
+2020-05-10 22:09:45,132 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_163_pc202004110011_result.sql】文件
+2020-05-10 22:09:45,132 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300018_result.sql】文件
+2020-05-10 22:09:45,132 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_csdn_pc202004110007_result.sql】文件
+2020-05-10 22:09:45,132 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_web_pc202004010012_result.sql】文件
+2020-05-10 22:09:45,132 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_renren_pc202004110009_result.sql】文件
+2020-05-10 22:09:45,133 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_zhenaiwang_pc202003300038_result.sql】文件
+2020-05-10 22:09:45,133 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_zhenaiwang_pc202004010008_result.sql】文件
+2020-05-10 22:09:45,133 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_yiyi_pc202004010004_result.sql】文件
+2020-05-10 22:09:45,133 scheJob.py[line:74] INFO 正在处理【./sql/ssd_csdn_result.sql】文件
+2020-05-10 22:09:45,133 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_shangpu_pc2020050500001_result.sql】文件
+2020-05-10 22:09:45,134 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_163_pc202004110013_result.sql】文件
+2020-05-10 22:09:45,134 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300020_result.sql】文件
+2020-05-10 22:09:45,134 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_52fangdichan_pc202003300017_result.sql】文件
+2020-05-10 22:09:45,134 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_taiwanhaiwaiwang_pc202003300030_result.sql】文件
+2020-05-10 22:09:45,134 scheJob.py[line:74] INFO 正在处理【./sql/s_ssd_hanting_pc202004110008_result.sql】文件
+2020-05-10 22:09:45,135 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300023_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,135 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300023_result.sql"
+2020-05-10 22:09:45,135 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_12306account_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,135 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,136 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_zp_pc202003300027_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,136 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_zhenaiwang_pc202003300040_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,136 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_12306account_result.sql"
+2020-05-10 22:09:45,136 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300019_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,137 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_original_xiaomi_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,137 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_zp_pc202003300027_result.sql"
+2020-05-10 22:09:45,137 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_original_acfun_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,137 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_renren_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,137 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_zhenaiwang_pc202003300040_result.sql"
+2020-05-10 22:09:45,138 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_92hacker_pc202004010010_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,138 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_hanting_pc202004110003_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,138 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,138 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/tianya_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,138 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_hanting_pc202004110004_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,138 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300019_result.sql"
+2020-05-10 22:09:45,139 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300021_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,139 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_163_pc202004110012_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,139 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_original_xiaomi_result.sql"
+2020-05-10 22:09:45,139 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300016_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,139 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_zhenaiwang_pc202003300042_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,139 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,140 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_acfun_pc202004110001_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,140 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_12306lianxiren_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,140 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_original_acfun_result.sql"
+2020-05-10 22:09:45,148 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,140 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_renren_result.sql"
+2020-05-10 22:09:45,149 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,140 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_163com_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,149 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_163com_result.sql"
+2020-05-10 22:09:45,149 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,141 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_163_pc202004110014_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,141 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_92hacker_pc202004010010_result.sql"
+2020-05-10 22:09:45,141 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300015_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,142 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300022_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,142 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_hanting_pc202004110003_result.sql"
+2020-05-10 22:09:45,142 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/126wangyi_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,152 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/126wangyi_result.sql"
+2020-05-10 22:09:45,142 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_163_pc202004110011_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,143 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/tianya_result.sql"
+2020-05-10 22:09:45,143 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_csdn_pc202004110007_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,143 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_web_pc202004010012_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,143 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_hanting_pc202004110004_result.sql"
+2020-05-10 22:09:45,143 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_renren_pc202004110009_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,144 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_zhenaiwang_pc202003300038_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,144 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,144 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_zhenaiwang_pc202004010008_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,144 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_yiyi_pc202004010004_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,144 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300021_result.sql"
+2020-05-10 22:09:45,144 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/ssd_csdn_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,145 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_shangpu_pc2020050500001_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,145 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_163_pc202004110012_result.sql"
+2020-05-10 22:09:45,145 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_163_pc202004110013_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,145 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300020_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,145 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,145 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300017_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,146 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_taiwanhaiwaiwang_pc202003300030_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,146 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300016_result.sql"
+2020-05-10 22:09:45,146 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_hanting_pc202004110008_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,147 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_zhenaiwang_pc202003300042_result.sql"
+2020-05-10 22:09:45,147 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_acfun_pc202004110001_result.sql"
+2020-05-10 22:09:45,147 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_12306lianxiren_result.sql"
+2020-05-10 22:09:45,140 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300024_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,141 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_hanting_pc202004110002_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,141 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_zhenaiwang_pc202003300041_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,150 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_163_pc202004110014_result.sql"
+2020-05-10 22:09:45,141 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,150 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,151 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300015_result.sql"
+2020-05-10 22:09:45,151 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300022_result.sql"
+2020-05-10 22:09:45,151 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,152 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,142 cmdThread.py[line:32] INFO [****命令【hive -f "./sql/s_ssd_52fangdichan_pc202003300018_result.sql"】执行成功，退出进程!****]
+2020-05-10 22:09:45,152 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_163_pc202004110011_result.sql"
+2020-05-10 22:09:45,152 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,152 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_csdn_pc202004110007_result.sql"
+2020-05-10 22:09:45,153 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_web_pc202004010012_result.sql"
+2020-05-10 22:09:45,153 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,154 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_renren_pc202004110009_result.sql"
+2020-05-10 22:09:45,154 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_zhenaiwang_pc202003300038_result.sql"
+2020-05-10 22:09:45,155 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_zhenaiwang_pc202004010008_result.sql"
+2020-05-10 22:09:45,156 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_yiyi_pc202004010004_result.sql"
+2020-05-10 22:09:45,157 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,157 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/ssd_csdn_result.sql"
+2020-05-10 22:09:45,159 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_shangpu_pc2020050500001_result.sql"
+2020-05-10 22:09:45,159 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,159 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_163_pc202004110013_result.sql"
+2020-05-10 22:09:45,160 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300020_result.sql"
+2020-05-10 22:09:45,160 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300017_result.sql"
+2020-05-10 22:09:45,170 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,161 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_taiwanhaiwaiwang_pc202003300030_result.sql"
+2020-05-10 22:09:45,171 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,162 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,162 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,162 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,162 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300024_result.sql"
+2020-05-10 22:09:45,162 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_hanting_pc202004110002_result.sql"
+2020-05-10 22:09:45,163 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_zhenaiwang_pc202003300041_result.sql"
+2020-05-10 22:09:45,173 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,163 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,165 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,165 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_52fangdichan_pc202003300018_result.sql"
+2020-05-10 22:09:45,175 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,165 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,166 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,167 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,167 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,168 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,168 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,168 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,169 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,169 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,170 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,161 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,161 cmdThread.py[line:33] INFO [EXCUTE_DONE]hive -f "./sql/s_ssd_hanting_pc202004110008_result.sql"
+2020-05-10 22:09:45,172 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,173 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,164 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,166 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,179 cmdThread.py[line:34] INFO [****执行结果【假装我就是执行结果】****]
+2020-05-10 22:09:45,247 scheJob.py[line:89] INFO ==============================All Job Done!==============================
