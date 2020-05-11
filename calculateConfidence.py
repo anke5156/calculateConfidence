@@ -21,6 +21,8 @@ from enum import Enum, unique
 
 @unique
 class Path(Enum):
+    # CONNECT = 'root:123456@172.20.1.11:3306'
+    CONNECT = 'root:123456@127.0.0.1:3306'
     MAPPINGPATH = './mapping'
     SQLPATH = './sql'
     FIELDMAPPING = {
@@ -62,6 +64,10 @@ class Path(Enum):
 
 
 class DrawMapping(object):
+    """
+    构建mapping文件
+    """
+
     def __init__(self, conn, outPutPath=Path.MAPPINGPATH.value):
         self.db = con(f"mysql+pymysql://{conn}")
         self.filePath = outPutPath
@@ -161,31 +167,14 @@ class DrawMapping(object):
 
 
 class DrawSql(object):
-    def __init__(self, fileName, conn, sqlPath=Path.SQLPATH.value, mappingPath=Path.MAPPINGPATH.value):
+    """
+    根据mapping文件生成可执行slq文件
+    """
+
+    def __init__(self, conn, sqlPath=Path.SQLPATH.value, mappingPath=Path.MAPPINGPATH.value):
         self.sqlPath = sqlPath
         self.mappingPath = mappingPath
         self.db = con(f"mysql+pymysql://{conn}")
-        self.fileName = fileName
-        # 校验配置的mapping数据格式
-        with open(self.fileName, 'r', encoding='utf-8') as f:
-            # 将类文件对象中的JSON字符串直接转换成Python字典
-            self.jBase = json.load(f)
-            # 获取json中的表信息
-            self.source = self.jBase['source']
-            self.database = self.jBase['database']
-            self.table = self.jBase['table']
-            self.fields = self.jBase['fields']
-            # 字段映射成身份证号、邮箱、手机号、、、
-            self.jField = self.jBase['fieldMapping']
-            self.uuid = self.jField['uuid']
-            self.sfzh = self.jField['sfzh']
-            self.user_name = self.jField['user_name']
-            self.email = self.jField['email']
-            self.phoneno = self.jField['phoneno']
-            self.password = self.jField['password']
-            self.explode_time = self.jField['explode_time']
-            self.confidence = self.jField['confidence']
-            self.source_table = self.table
 
     def _ruleMatch(self, col, is_confidence):
         """
@@ -250,15 +239,39 @@ class DrawSql(object):
               f"select {c2_} from {self.database}.{self.table};"
         return sql
 
-    def start(self):
+    def _config(self, fileName):
+        # 校验配置的mapping数据格式
+        with open(fileName, 'r', encoding='utf-8') as f:
+            # 将类文件对象中的JSON字符串直接转换成Python字典
+            self.jBase = json.load(f)
+            # 获取json中的表信息
+            self.source = self.jBase['source']
+            self.database = self.jBase['database']
+            self.table = self.jBase['table']
+            self.fields = self.jBase['fields']
+            # 字段映射成身份证号、邮箱、手机号、、、
+            self.jField = self.jBase['fieldMapping']
+            self.uuid = self.jField['uuid']
+            self.sfzh = self.jField['sfzh']
+            self.user_name = self.jField['user_name']
+            self.email = self.jField['email']
+            self.phoneno = self.jField['phoneno']
+            self.password = self.jField['password']
+            self.explode_time = self.jField['explode_time']
+            self.confidence = self.jField['confidence']
+            self.source_table = self.table
+
+    def _write_to_file(self, jsonFile):
         """
-        开始构建sql
+        将sql语句写入脚本文件中
+        :param jsonFile: json文件名(路径)
         :return:
         """
-        file = os.path.join(self.sqlPath, self.table + '.sql')
+        self._config(jsonFile)
+        sqlFile = os.path.join(self.sqlPath, self.table + '.sql')
         if not os.path.isdir(self.sqlPath):
             os.makedirs(self.sqlPath)
-        with open(file, mode="w+", encoding="utf-8") as fd:
+        with open(sqlFile, mode="w+", encoding="utf-8") as fd:
             write = fd.write(self._spellSql())
             if write:
                 # sql = f"update dangan.table_final_name set is_load=2 where tbl_name='{self.table}'"
@@ -268,15 +281,20 @@ class DrawSql(object):
                     logger.info(f"【{self.database}.{self.table}】表构建SQL成功！")
                     os.remove(os.path.join(self.mappingPath, self.table + '.json'))
 
+    def start(self):
+        """开始构建sql语句，并写入sql脚本文件"""
+        for dirPath, dirNames, fileNames in os.walk(Path.MAPPINGPATH.value):
+            for fileName in fileNames:
+                if fileName.endswith('json'):
+                    i = os.path.join(dirPath, fileName)
+                    self._write_to_file(i)
+        if os.path.isdir(Path.MAPPINGPATH.value):
+            os.removedirs(Path.MAPPINGPATH.value)
+
+
 
 if __name__ == '__main__':
-    # connect = 'root:123456@172.20.1.11:3306'
-    connect = 'root:123456@127.0.0.1:3306'
-    DrawMapping(conn=connect).build_from_db()
+    import fire
 
-    for dirPath, dirNames, fileNames in os.walk(Path.MAPPINGPATH.value):
-        for fileName in fileNames:
-            if fileName.endswith('json'):
-                i = os.path.join(dirPath, fileName)
-                with open(i, 'r') as f:
-                    extSql = DrawSql(f.name, conn=connect).start()
+    fire.Fire({'DrawMapping': DrawMapping(conn=Path.CONNECT.value),
+               'DrawSql': DrawSql(conn=Path.CONNECT.value)})

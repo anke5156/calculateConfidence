@@ -39,8 +39,15 @@ def ScheJobHip(func):
 
 @ScheJobHip
 def tick():
+    """
+    步骤：1.构建mapping；2.构建sql语句；3.开始执行sql语句
+    :return:
+    """
     mark = str(time.time())
     logger.info('%s' % mark)
+
+    connect = Path.CONNECT.value
+    sqlPath = Path.SQLPATH.value
 
     # 1.先建mapping
     logger.info('==============================开始构建mapping==============================')
@@ -49,23 +56,15 @@ def tick():
 
     # 2.根据mapping构建sql
     logger.info('==============================开始构建SQL==============================')
-    for root, dirs, files in os.walk(Path.MAPPINGPATH.value):
-        for file in files:
-            if file.endswith('json'):
-                file_ = os.path.join(root, file)
-                with open(file_, 'r') as f:
-                    expSql = DrawSql(f.name, conn=connect)
-                    logger.info(f'正在处理【{f.name}】文件')
-                    expSql.start()
-        if os.path.isdir(Path.MAPPINGPATH.value):
-            os.removedirs(Path.MAPPINGPATH.value)
+    DrawSql(conn=connect).start()
+
     # 3.开始执行sql
     logger.info('==============================开始执行SQL文件==============================')
     threadList = []
     cnt = 1
     db = con(f"mysql+pymysql://{connect}")
     fileName = []
-    for root, dirs, files in os.walk(Path.SQLPATH.value):
+    for root, dirs, files in os.walk(sqlPath):
         for file in files:
             if file.endswith('sql'):
                 fileName.append(file)
@@ -83,15 +82,14 @@ def tick():
             sql = f"update dangan.tb_ml_temp_t1 set is_load=3 where tbl_name='{table}'"
             execute = db.execute(sql, autocommit=True)
             if execute > 0:
-                os.remove(os.path.join(Path.SQLPATH.value, table + '.sql'))
-    if os.path.isdir(Path.SQLPATH.value):
-        os.removedirs(Path.SQLPATH.value)
+                os.remove(os.path.join(sqlPath, table + '.sql'))
+    if os.path.isdir(sqlPath):
+        os.removedirs(sqlPath)
     logger.info('==============================All Job Done!==============================')
     # splitlog('../logs/hipdataload.log', mark)
 
 
 if __name__ == '__main__':
-    # LoggerPro().config()
-    # connect = 'root:123456@172.20.1.11:3306'
-    connect = 'root:123456@127.0.0.1:3306'
-    tick()
+    import fire
+
+    fire.Fire({'run': tick})
